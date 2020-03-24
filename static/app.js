@@ -7,8 +7,8 @@ const margin = {
     bottom: 30,
     left: 50
 };
-const width = 960 - margin.left - margin.right;
-const height = 500 - margin.top - margin.bottom;
+const width = 700 - margin.left - margin.right;
+const height = 450 - margin.top - margin.bottom;
 
 const g = d3.select("svg")
     .append("g")
