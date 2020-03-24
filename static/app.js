@@ -46,14 +46,24 @@ d3.json("static/kant.json").then(data => {
 
     function showText(selectedText) {
 
+
+
         if (selectedText !== '...Select Text...') {
-            values = data[selectedText]
-            minVal = d3.min(values, v=>+v.value)
-            maxVal = d3.max(values, v=>+v.value)
+            wordValues = data[selectedText]
+            minVal = d3.min(wordValues, v=>+v.value)
+            maxVal = d3.max(wordValues, v=>+v.value)
+
+            let scaleType = d3.scaleLinear()
+                .domain([minVal,maxVal])
+                .range([10,50])
+
             console.log(minVal,maxVal)
             wordCloudData.length = 0;
-            values.forEach(function(value) {
-                wordCloudData.push(value)
+            wordValues.forEach(function(word) {
+                word.text = word.text
+                word.value = scaleType(word.value)
+                wordCloudData.push(word)
+                console.log(word)
             })
             
             makeCloud();
@@ -63,9 +73,10 @@ d3.json("static/kant.json").then(data => {
 
     function makeCloud() {
         let wordCloudlayout = d3.layout.cloud()
-            .size([1000, 500])
+            .size([700, 450])
             .words(wordCloudData)
-            .font("Ariel")
+            .fontSize((d)=>d.value)
+            .font("Gill Sans MT")
             .padding(5)
             .on("end", draw);
     
@@ -81,7 +92,7 @@ d3.json("static/kant.json").then(data => {
                 .enter()
                     .append("text")
                     .text((d) => d.text)
-                    .style("font-size", (d) => (d.size*1.25)  + "px")
+                    .style("font-size", (d) => (d.value)  + "px")
                     .style("font-family", (d) => d.font)
                     .style("fill", (d, i) => color(i))
                     .attr("text-anchor", "middle")
