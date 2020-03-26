@@ -4424,572 +4424,512 @@
     "Nietzsche: All": [
         {
             "text": "man",
-            "value": "1737"
+            "value": "1610"
         },
         {
             "text": "thou",
-            "value": "1055"
+            "value": "1039"
         },
         {
             "text": "life",
-            "value": "994"
+            "value": "902"
         },
         {
             "text": "good",
-            "value": "909"
+            "value": "846"
         },
         {
             "text": "like",
-            "value": "880"
-        },
-        {
-            "text": "world",
-            "value": "866"
-        },
-        {
-            "text": "men",
-            "value": "856"
+            "value": "845"
         },
         {
             "text": "ye",
-            "value": "840"
+            "value": "830"
         },
         {
-            "text": "zarathustra",
-            "value": "798"
+            "text": "world",
+            "value": "810"
         },
         {
-            "text": "gutenberg",
-            "value": "764"
-        },
-        {
-            "text": "great",
-            "value": "735"
+            "text": "men",
+            "value": "770"
         },
         {
             "text": "things",
-            "value": "734"
+            "value": "683"
         },
         {
             "text": "time",
-            "value": "718"
+            "value": "676"
         },
         {
-            "text": "project",
-            "value": "703"
+            "text": "zarathustra",
+            "value": "673"
+        },
+        {
+            "text": "great",
+            "value": "659"
         },
         {
             "text": "god",
-            "value": "669"
+            "value": "650"
         },
         {
             "text": "love",
-            "value": "641"
-        },
-        {
-            "text": "work",
-            "value": "626"
+            "value": "615"
         },
         {
             "text": "did",
-            "value": "625"
-        },
-        {
-            "text": "new",
-            "value": "596"
+            "value": "600"
         },
         {
             "text": "self",
-            "value": "568"
-        },
-        {
-            "text": "people",
-            "value": "550"
+            "value": "542"
         },
         {
             "text": "art",
-            "value": "547"
+            "value": "530"
         },
         {
-            "text": "day",
-            "value": "541"
-        },
-        {
-            "text": "say",
-            "value": "517"
-        },
-        {
-            "text": "does",
+            "text": "new",
             "value": "516"
         },
         {
-            "text": "thy",
-            "value": "510"
+            "text": "day",
+            "value": "507"
         },
         {
-            "text": "spirit",
-            "value": "503"
+            "text": "people",
+            "value": "507"
+        },
+        {
+            "text": "thy",
+            "value": "501"
         },
         {
             "text": "soul",
-            "value": "499"
+            "value": "492"
+        },
+        {
+            "text": "say",
+            "value": "487"
+        },
+        {
+            "text": "does",
+            "value": "481"
+        },
+        {
+            "text": "spirit",
+            "value": "481"
         },
         {
             "text": "just",
-            "value": "493"
-        },
-        {
-            "text": "old",
-            "value": "490"
-        },
-        {
-            "text": "nature",
             "value": "469"
         },
         {
-            "text": "long",
-            "value": "468"
-        },
-        {
-            "text": "tm",
-            "value": "456"
-        },
-        {
-            "text": "power",
-            "value": "452"
-        },
-        {
-            "text": "know",
+            "text": "old",
             "value": "447"
         },
         {
-            "text": "thee",
-            "value": "446"
+            "text": "nature",
+            "value": "443"
         },
         {
             "text": "let",
-            "value": "443"
+            "value": "436"
+        },
+        {
+            "text": "thee",
+            "value": "432"
+        },
+        {
+            "text": "long",
+            "value": "429"
         },
         {
             "text": "truth",
-            "value": "443"
-        },
-        {
-            "text": "hath",
-            "value": "430"
-        },
-        {
-            "text": "fact",
             "value": "428"
         },
         {
-            "text": "means",
-            "value": "417"
+            "text": "hath",
+            "value": "422"
         },
         {
-            "text": "way",
-            "value": "409"
+            "text": "power",
+            "value": "419"
+        },
+        {
+            "text": "know",
+            "value": "415"
+        },
+        {
+            "text": "fact",
+            "value": "391"
         },
         {
             "text": "unto",
-            "value": "393"
+            "value": "385"
         },
         {
-            "text": "make",
-            "value": "376"
-        },
-        {
-            "text": "order",
-            "value": "374"
-        },
-        {
-            "text": "said",
-            "value": "372"
-        },
-        {
-            "text": "shall",
-            "value": "372"
+            "text": "way",
+            "value": "362"
         },
         {
             "text": "heart",
-            "value": "369"
+            "value": "361"
+        },
+        {
+            "text": "means",
+            "value": "360"
+        },
+        {
+            "text": "said",
+            "value": "350"
         },
         {
             "text": "present",
-            "value": "367"
+            "value": "343"
         },
         {
-            "text": "evil",
-            "value": "358"
+            "text": "order",
+            "value": "341"
         },
         {
-            "text": "far",
-            "value": "353"
+            "text": "shall",
+            "value": "336"
         },
         {
             "text": "thing",
-            "value": "349"
+            "value": "334"
         },
         {
-            "text": "german",
-            "value": "348"
-        },
-        {
-            "text": "music",
-            "value": "342"
-        },
-        {
-            "text": "higher",
-            "value": "340"
-        },
-        {
-            "text": "little",
-            "value": "339"
-        },
-        {
-            "text": "nietzsche",
+            "text": "far",
             "value": "332"
         },
         {
-            "text": "knowledge",
-            "value": "331"
+            "text": "make",
+            "value": "332"
         },
         {
-            "text": "called",
+            "text": "music",
+            "value": "330"
+        },
+        {
+            "text": "german",
             "value": "327"
         },
         {
-            "text": "works",
-            "value": "323"
-        },
-        {
-            "text": "morality",
-            "value": "320"
-        },
-        {
-            "text": "come",
+            "text": "knowledge",
             "value": "319"
         },
         {
-            "text": "longer",
-            "value": "313"
+            "text": "evil",
+            "value": "317"
         },
         {
-            "text": "bad",
+            "text": "called",
             "value": "312"
         },
         {
-            "text": "virtue",
+            "text": "little",
             "value": "308"
         },
         {
-            "text": "away",
-            "value": "307"
+            "text": "bad",
+            "value": "298"
         },
         {
-            "text": "human",
-            "value": "307"
+            "text": "come",
+            "value": "298"
         },
         {
-            "text": "hand",
-            "value": "305"
-        },
-        {
-            "text": "ones",
-            "value": "300"
-        },
-        {
-            "text": "end",
-            "value": "299"
-        },
-        {
-            "text": "free",
+            "text": "longer",
             "value": "295"
         },
         {
-            "text": "existence",
-            "value": "293"
+            "text": "morality",
+            "value": "295"
         },
         {
-            "text": "thought",
-            "value": "283"
+            "text": "higher",
+            "value": "294"
         },
         {
-            "text": "certain",
+            "text": "hand",
+            "value": "290"
+        },
+        {
+            "text": "virtue",
+            "value": "289"
+        },
+        {
+            "text": "ones",
+            "value": "286"
+        },
+        {
+            "text": "human",
+            "value": "281"
+        },
+        {
+            "text": "away",
             "value": "278"
         },
         {
-            "text": "form",
-            "value": "277"
+            "text": "existence",
+            "value": "278"
         },
         {
-            "text": "word",
-            "value": "277"
-        },
-        {
-            "text": "kind",
-            "value": "269"
+            "text": "thought",
+            "value": "258"
         },
         {
             "text": "moral",
-            "value": "269"
-        },
-        {
-            "text": "right",
-            "value": "267"
-        },
-        {
-            "text": "best",
-            "value": "263"
-        },
-        {
-            "text": "sense",
-            "value": "263"
+            "value": "257"
         },
         {
             "text": "woman",
-            "value": "262"
+            "value": "256"
         },
         {
-            "text": "happiness",
-            "value": "253"
+            "text": "word",
+            "value": "255"
         },
         {
-            "text": "ideal",
-            "value": "253"
-        },
-        {
-            "text": "speak",
+            "text": "kind",
             "value": "250"
         },
         {
-            "text": "conscience",
-            "value": "247"
+            "text": "sense",
+            "value": "250"
         },
         {
-            "text": "light",
-            "value": "247"
-        },
-        {
-            "text": "eyes",
+            "text": "best",
             "value": "246"
         },
         {
-            "text": "highest",
-            "value": "245"
+            "text": "end",
+            "value": "246"
         },
         {
-            "text": "case",
+            "text": "happiness",
             "value": "244"
         },
         {
-            "text": "science",
-            "value": "244"
-        },
-        {
-            "text": "belief",
+            "text": "eyes",
             "value": "242"
         },
         {
+            "text": "certain",
+            "value": "238"
+        },
+        {
+            "text": "conscience",
+            "value": "238"
+        },
+        {
+            "text": "free",
+            "value": "238"
+        },
+        {
+            "text": "speak",
+            "value": "237"
+        },
+        {
+            "text": "light",
+            "value": "234"
+        },
+        {
             "text": "doth",
-            "value": "236"
-        },
-        {
-            "text": "words",
-            "value": "236"
-        },
-        {
-            "text": "place",
             "value": "232"
         },
         {
-            "text": "earth",
-            "value": "229"
+            "text": "belief",
+            "value": "231"
         },
         {
-            "text": "possible",
-            "value": "229"
+            "text": "highest",
+            "value": "231"
         },
         {
-            "text": "necessary",
+            "text": "science",
             "value": "228"
         },
         {
-            "text": "foundation",
+            "text": "right",
             "value": "227"
         },
         {
+            "text": "ideal",
+            "value": "226"
+        },
+        {
+            "text": "case",
+            "value": "221"
+        },
+        {
+            "text": "earth",
+            "value": "220"
+        },
+        {
+            "text": "verily",
+            "value": "220"
+        },
+        {
+            "text": "form",
+            "value": "219"
+        },
+        {
+            "text": "work",
+            "value": "219"
+        },
+        {
+            "text": "words",
+            "value": "215"
+        },
+        {
             "text": "hitherto",
-            "value": "227"
+            "value": "214"
+        },
+        {
+            "text": "necessary",
+            "value": "214"
+        },
+        {
+            "text": "reason",
+            "value": "214"
+        },
+        {
+            "text": "wisdom",
+            "value": "214"
+        },
+        {
+            "text": "possible",
+            "value": "213"
+        },
+        {
+            "text": "think",
+            "value": "213"
+        },
+        {
+            "text": "true",
+            "value": "211"
+        },
+        {
+            "text": "history",
+            "value": "209"
+        },
+        {
+            "text": "christian",
+            "value": "207"
         }
     ],
     "Nietzsche: Anti-Christ": [
         {
             "text": "god",
-            "value": "174"
+            "value": "168"
         },
         {
             "text": "man",
-            "value": "129"
+            "value": "119"
         },
         {
             "text": "christianity",
-            "value": "110"
+            "value": "88"
         },
         {
             "text": "christian",
-            "value": "97"
-        },
-        {
-            "text": "gutenberg",
-            "value": "93"
-        },
-        {
-            "text": "life",
-            "value": "88"
-        },
-        {
-            "text": "project",
-            "value": "88"
-        },
-        {
-            "text": "world",
             "value": "85"
         },
         {
-            "text": "things",
-            "value": "67"
+            "text": "life",
+            "value": "85"
         },
         {
-            "text": "work",
-            "value": "67"
+            "text": "world",
+            "value": "74"
+        },
+        {
+            "text": "things",
+            "value": "62"
         },
         {
             "text": "truth",
-            "value": "61"
-        },
-        {
-            "text": "great",
-            "value": "60"
-        },
-        {
-            "text": "men",
-            "value": "57"
-        },
-        {
-            "text": "tm",
-            "value": "57"
-        },
-        {
-            "text": "sort",
-            "value": "56"
-        },
-        {
-            "text": "self",
             "value": "53"
-        },
-        {
-            "text": "instinct",
-            "value": "52"
         },
         {
             "text": "_not_",
             "value": "50"
         },
         {
-            "text": "nietzsche",
+            "text": "self",
+            "value": "49"
+        },
+        {
+            "text": "great",
             "value": "48"
         },
         {
-            "text": "power",
+            "text": "sort",
             "value": "48"
         },
         {
-            "text": "priest",
-            "value": "48"
-        },
-        {
-            "text": "fact",
+            "text": "instinct",
             "value": "47"
         },
         {
-            "text": "say",
-            "value": "41"
+            "text": "priest",
+            "value": "47"
         },
         {
-            "text": "does",
-            "value": "40"
+            "text": "power",
+            "value": "43"
         },
         {
             "text": "faith",
-            "value": "40"
-        },
-        {
-            "text": "means",
-            "value": "40"
-        },
-        {
-            "text": "merely",
-            "value": "40"
-        },
-        {
-            "text": "people",
-            "value": "40"
-        },
-        {
-            "text": "way",
-            "value": "40"
-        },
-        {
-            "text": "make",
             "value": "39"
         },
         {
-            "text": "form",
+            "text": "say",
+            "value": "39"
+        },
+        {
+            "text": "merely",
+            "value": "38"
+        },
+        {
+            "text": "does",
             "value": "37"
-        },
-        {
-            "text": "true",
-            "value": "37"
-        },
-        {
-            "text": "death",
-            "value": "36"
-        },
-        {
-            "text": "end",
-            "value": "36"
         },
         {
             "text": "instincts",
             "value": "36"
         },
         {
-            "text": "order",
+            "text": "means",
             "value": "36"
         },
         {
-            "text": "works",
+            "text": "men",
             "value": "36"
+        },
+        {
+            "text": "people",
+            "value": "35"
+        },
+        {
+            "text": "death",
+            "value": "34"
+        },
+        {
+            "text": "fact",
+            "value": "34"
+        },
+        {
+            "text": "order",
+            "value": "34"
         },
         {
             "text": "concept",
-            "value": "35"
-        },
-        {
-            "text": "german",
-            "value": "35"
-        },
-        {
-            "text": "good",
-            "value": "34"
-        },
-        {
-            "text": "war",
-            "value": "34"
-        },
-        {
-            "text": "church",
             "value": "33"
         },
         {
@@ -4997,111 +4937,103 @@
             "value": "33"
         },
         {
-            "text": "thing",
-            "value": "33"
-        },
-        {
-            "text": "long",
+            "text": "church",
             "value": "32"
         },
         {
-            "text": "time",
+            "text": "true",
             "value": "32"
         },
         {
-            "text": "word",
-            "value": "32"
-        },
-        {
-            "text": "know",
+            "text": "good",
             "value": "31"
         },
         {
-            "text": "new",
+            "text": "way",
             "value": "31"
-        },
-        {
-            "text": "free",
-            "value": "30"
-        },
-        {
-            "text": "history",
-            "value": "30"
-        },
-        {
-            "text": "makes",
-            "value": "30"
-        },
-        {
-            "text": "necessary",
-            "value": "30"
         },
         {
             "text": "gospels",
             "value": "29"
         },
         {
-            "text": "mankind",
+            "text": "history",
             "value": "29"
         },
         {
-            "text": "simply",
+            "text": "know",
             "value": "29"
         },
         {
-            "text": "like",
+            "text": "necessary",
+            "value": "29"
+        },
+        {
+            "text": "thing",
+            "value": "29"
+        },
+        {
+            "text": "word",
+            "value": "29"
+        },
+        {
+            "text": "make",
             "value": "28"
+        },
+        {
+            "text": "form",
+            "value": "27"
+        },
+        {
+            "text": "mankind",
+            "value": "27"
+        },
+        {
+            "text": "time",
+            "value": "27"
+        },
+        {
+            "text": "end",
+            "value": "26"
+        },
+        {
+            "text": "makes",
+            "value": "26"
         },
         {
             "text": "natural",
-            "value": "28"
+            "value": "26"
         },
         {
             "text": "paul",
-            "value": "28"
-        },
-        {
-            "text": "set",
-            "value": "28"
+            "value": "26"
         },
         {
             "text": "values",
-            "value": "28"
+            "value": "26"
         },
         {
-            "text": "electronic",
-            "value": "27"
-        },
-        {
-            "text": "foundation",
-            "value": "27"
-        },
-        {
-            "text": "terms",
-            "value": "27"
+            "text": "german",
+            "value": "25"
         },
         {
             "text": "lie",
-            "value": "26"
+            "value": "25"
+        },
+        {
+            "text": "simply",
+            "value": "25"
         },
         {
             "text": "spirit",
-            "value": "26"
-        },
-        {
-            "text": "state",
-            "value": "26"
+            "value": "25"
         },
         {
             "text": "type",
-            "value": "26"
+            "value": "25"
         },
         {
-            "text": "use",
-            "value": "26"
-        },
-        {
-            "text": "intellectual",
+            "text": "war",
             "value": "25"
         },
         {
@@ -5109,63 +5041,11 @@
             "value": "24"
         },
         {
-            "text": "actually",
-            "value": "24"
-        },
-        {
-            "text": "idea",
-            "value": "24"
-        },
-        {
-            "text": "mere",
-            "value": "24"
-        },
-        {
             "text": "nature",
-            "value": "24"
-        },
-        {
-            "text": "old",
-            "value": "24"
-        },
-        {
-            "text": "possible",
-            "value": "24"
-        },
-        {
-            "text": "shall",
-            "value": "24"
-        },
-        {
-            "text": "called",
-            "value": "23"
-        },
-        {
-            "text": "let",
-            "value": "23"
-        },
-        {
-            "text": "right",
-            "value": "23"
-        },
-        {
-            "text": "soul",
-            "value": "23"
-        },
-        {
-            "text": "states",
-            "value": "23"
-        },
-        {
-            "text": "today",
             "value": "23"
         },
         {
             "text": "concepts",
-            "value": "22"
-        },
-        {
-            "text": "holy",
             "value": "22"
         },
         {
@@ -5177,35 +5057,27 @@
             "value": "22"
         },
         {
+            "text": "soul",
+            "value": "22"
+        },
+        {
+            "text": "actually",
+            "value": "21"
+        },
+        {
+            "text": "let",
+            "value": "21"
+        },
+        {
             "text": "morality",
-            "value": "22"
-        },
-        {
-            "text": "reason",
-            "value": "22"
-        },
-        {
-            "text": "antichrist",
             "value": "21"
         },
         {
-            "text": "contrary",
+            "text": "possible",
             "value": "21"
         },
         {
-            "text": "evil",
-            "value": "21"
-        },
-        {
-            "text": "jews",
-            "value": "21"
-        },
-        {
-            "text": "just",
-            "value": "21"
-        },
-        {
-            "text": "moral",
+            "text": "shall",
             "value": "21"
         },
         {
@@ -5213,16 +5085,144 @@
             "value": "21"
         },
         {
-            "text": "years",
-            "value": "21"
+            "text": "called",
+            "value": "20"
+        },
+        {
+            "text": "evil",
+            "value": "20"
+        },
+        {
+            "text": "existence",
+            "value": "20"
+        },
+        {
+            "text": "jews",
+            "value": "20"
+        },
+        {
+            "text": "reason",
+            "value": "20"
+        },
+        {
+            "text": "salvation",
+            "value": "20"
         },
         {
             "text": "come",
-            "value": "20"
+            "value": "19"
+        },
+        {
+            "text": "feeling",
+            "value": "19"
+        },
+        {
+            "text": "holy",
+            "value": "19"
+        },
+        {
+            "text": "intellectual",
+            "value": "19"
+        },
+        {
+            "text": "just",
+            "value": "19"
+        },
+        {
+            "text": "like",
+            "value": "19"
+        },
+        {
+            "text": "precisely",
+            "value": "19"
+        },
+        {
+            "text": "today",
+            "value": "19"
+        },
+        {
+            "text": "virtue",
+            "value": "19"
+        },
+        {
+            "text": "appears",
+            "value": "18"
+        },
+        {
+            "text": "contrary",
+            "value": "18"
         },
         {
             "text": "cross",
-            "value": "20"
+            "value": "18"
+        },
+        {
+            "text": "free",
+            "value": "18"
+        },
+        {
+            "text": "law",
+            "value": "18"
+        },
+        {
+            "text": "mere",
+            "value": "18"
+        },
+        {
+            "text": "question",
+            "value": "18"
+        },
+        {
+            "text": "religion",
+            "value": "18"
+        },
+        {
+            "text": "state",
+            "value": "18"
+        },
+        {
+            "text": "cause",
+            "value": "17"
+        },
+        {
+            "text": "example",
+            "value": "17"
+        },
+        {
+            "text": "lies",
+            "value": "17"
+        },
+        {
+            "text": "long",
+            "value": "17"
+        },
+        {
+            "text": "moral",
+            "value": "17"
+        },
+        {
+            "text": "new",
+            "value": "17"
+        },
+        {
+            "text": "point",
+            "value": "17"
+        },
+        {
+            "text": "right",
+            "value": "17"
+        },
+        {
+            "text": "jewish",
+            "value": "16"
+        },
+        {
+            "text": "love",
+            "value": "16"
+        },
+        {
+            "text": "need",
+            "value": "16"
         }
     ],
     "Nietzsche: Beyond Good and Evil": [
@@ -5232,7 +5232,7 @@
         },
         {
             "text": "good",
-            "value": "143"
+            "value": "136"
         },
         {
             "text": "men",
@@ -5244,19 +5244,15 @@
         },
         {
             "text": "new",
-            "value": "101"
-        },
-        {
-            "text": "does",
             "value": "98"
         },
         {
-            "text": "german",
+            "text": "does",
             "value": "96"
         },
         {
-            "text": "gutenberg",
-            "value": "93"
+            "text": "german",
+            "value": "95"
         },
         {
             "text": "self",
@@ -5264,7 +5260,7 @@
         },
         {
             "text": "life",
-            "value": "91"
+            "value": "90"
         },
         {
             "text": "morality",
@@ -5277,10 +5273,6 @@
         {
             "text": "time",
             "value": "88"
-        },
-        {
-            "text": "project",
-            "value": "87"
         },
         {
             "text": "woman",
@@ -5303,12 +5295,12 @@
             "value": "82"
         },
         {
-            "text": "old",
+            "text": "spirit",
             "value": "80"
         },
         {
-            "text": "spirit",
-            "value": "80"
+            "text": "old",
+            "value": "78"
         },
         {
             "text": "just",
@@ -5320,22 +5312,18 @@
         },
         {
             "text": "people",
-            "value": "74"
+            "value": "71"
         },
         {
             "text": "things",
-            "value": "73"
-        },
-        {
-            "text": "work",
-            "value": "72"
-        },
-        {
-            "text": "long",
-            "value": "69"
+            "value": "71"
         },
         {
             "text": "god",
+            "value": "68"
+        },
+        {
+            "text": "long",
             "value": "68"
         },
         {
@@ -5351,10 +5339,6 @@
             "value": "67"
         },
         {
-            "text": "means",
-            "value": "67"
-        },
-        {
             "text": "philosophy",
             "value": "67"
         },
@@ -5363,8 +5347,8 @@
             "value": "66"
         },
         {
-            "text": "free",
-            "value": "65"
+            "text": "means",
+            "value": "64"
         },
         {
             "text": "power",
@@ -5379,12 +5363,16 @@
             "value": "63"
         },
         {
-            "text": "know",
-            "value": "62"
-        },
-        {
             "text": "far",
             "value": "61"
+        },
+        {
+            "text": "know",
+            "value": "61"
+        },
+        {
+            "text": "free",
+            "value": "60"
         },
         {
             "text": "nature",
@@ -5403,15 +5391,7 @@
             "value": "58"
         },
         {
-            "text": "make",
-            "value": "57"
-        },
-        {
             "text": "present",
-            "value": "57"
-        },
-        {
-            "text": "tm",
             "value": "57"
         },
         {
@@ -5424,7 +5404,11 @@
         },
         {
             "text": "kind",
-            "value": "55"
+            "value": "54"
+        },
+        {
+            "text": "make",
+            "value": "54"
         },
         {
             "text": "order",
@@ -5433,10 +5417,6 @@
         {
             "text": "precisely",
             "value": "52"
-        },
-        {
-            "text": "right",
-            "value": "51"
         },
         {
             "text": "sympathy",
@@ -5459,12 +5439,16 @@
             "value": "49"
         },
         {
-            "text": "end",
+            "text": "heart",
             "value": "48"
         },
         {
-            "text": "heart",
-            "value": "48"
+            "text": "right",
+            "value": "47"
+        },
+        {
+            "text": "end",
+            "value": "46"
         },
         {
             "text": "instinct",
@@ -5487,22 +5471,6 @@
             "value": "43"
         },
         {
-            "text": "certain",
-            "value": "43"
-        },
-        {
-            "text": "general",
-            "value": "43"
-        },
-        {
-            "text": "way",
-            "value": "43"
-        },
-        {
-            "text": "day",
-            "value": "42"
-        },
-        {
             "text": "hand",
             "value": "42"
         },
@@ -5511,15 +5479,23 @@
             "value": "42"
         },
         {
-            "text": "evil",
+            "text": "certain",
             "value": "41"
         },
         {
-            "text": "modern",
+            "text": "day",
+            "value": "41"
+        },
+        {
+            "text": "way",
+            "value": "41"
+        },
+        {
+            "text": "general",
             "value": "40"
         },
         {
-            "text": "works",
+            "text": "modern",
             "value": "40"
         },
         {
@@ -5551,19 +5527,15 @@
             "value": "38"
         },
         {
-            "text": "different",
-            "value": "38"
-        },
-        {
             "text": "belief",
             "value": "37"
         },
         {
-            "text": "ideas",
+            "text": "different",
             "value": "37"
         },
         {
-            "text": "makes",
+            "text": "ideas",
             "value": "37"
         },
         {
@@ -5579,11 +5551,11 @@
             "value": "37"
         },
         {
-            "text": "understand",
-            "value": "37"
+            "text": "little",
+            "value": "36"
         },
         {
-            "text": "little",
+            "text": "makes",
             "value": "36"
         },
         {
@@ -5599,7 +5571,7 @@
             "value": "36"
         },
         {
-            "text": "use",
+            "text": "understand",
             "value": "36"
         },
         {
@@ -5619,77 +5591,89 @@
             "value": "35"
         },
         {
+            "text": "evil",
+            "value": "34"
+        },
+        {
             "text": "rank",
             "value": "34"
         },
         {
             "text": "value",
             "value": "34"
+        },
+        {
+            "text": "virtues",
+            "value": "34"
+        },
+        {
+            "text": "case",
+            "value": "33"
+        },
+        {
+            "text": "fear",
+            "value": "33"
+        },
+        {
+            "text": "origin",
+            "value": "33"
+        },
+        {
+            "text": "respect",
+            "value": "33"
+        },
+        {
+            "text": "believe",
+            "value": "32"
         }
     ],
     "Nietzsche: Birth of Tragedy": [
         {
             "text": "art",
-            "value": "208"
+            "value": "202"
         },
         {
             "text": "music",
-            "value": "194"
-        },
-        {
-            "text": "world",
-            "value": "180"
+            "value": "188"
         },
         {
             "text": "dionysian",
-            "value": "174"
+            "value": "172"
+        },
+        {
+            "text": "world",
+            "value": "164"
         },
         {
             "text": "tragedy",
-            "value": "165"
+            "value": "152"
         },
         {
             "text": "man",
-            "value": "145"
-        },
-        {
-            "text": "life",
-            "value": "109"
+            "value": "132"
         },
         {
             "text": "apollonian",
-            "value": "107"
-        },
-        {
-            "text": "nature",
             "value": "106"
         },
         {
-            "text": "gutenberg",
-            "value": "98"
+            "text": "nature",
+            "value": "101"
         },
         {
-            "text": "time",
-            "value": "93"
+            "text": "life",
+            "value": "95"
         },
         {
             "text": "tragic",
-            "value": "90"
-        },
-        {
-            "text": "project",
-            "value": "88"
+            "value": "86"
         },
         {
             "text": "greek",
-            "value": "84"
+            "value": "83"
         },
         {
-            "text": "work",
-            "value": "82"
-        },
-        {
-            "text": "myth",
+            "text": "time",
             "value": "80"
         },
         {
@@ -5697,51 +5681,43 @@
             "value": "79"
         },
         {
-            "text": "new",
-            "value": "77"
+            "text": "myth",
+            "value": "79"
         },
         {
             "text": "chorus",
             "value": "75"
         },
         {
+            "text": "new",
+            "value": "73"
+        },
+        {
             "text": "existence",
-            "value": "74"
-        },
-        {
-            "text": "things",
-            "value": "67"
-        },
-        {
-            "text": "artist",
-            "value": "64"
-        },
-        {
-            "text": "form",
-            "value": "64"
+            "value": "70"
         },
         {
             "text": "like",
-            "value": "63"
+            "value": "62"
         },
         {
-            "text": "appearance",
+            "text": "things",
             "value": "62"
         },
         {
             "text": "phenomenon",
-            "value": "62"
+            "value": "61"
         },
         {
-            "text": "artistic",
-            "value": "59"
+            "text": "artist",
+            "value": "58"
         },
         {
             "text": "euripides",
             "value": "58"
         },
         {
-            "text": "tm",
+            "text": "form",
             "value": "57"
         },
         {
@@ -5753,43 +5729,47 @@
             "value": "56"
         },
         {
-            "text": "order",
+            "text": "artistic",
             "value": "55"
         },
         {
-            "text": "spirit",
-            "value": "55"
+            "text": "appearance",
+            "value": "53"
         },
         {
             "text": "highest",
-            "value": "54"
-        },
-        {
-            "text": "does",
-            "value": "52"
+            "value": "53"
         },
         {
             "text": "reality",
             "value": "52"
         },
         {
-            "text": "just",
+            "text": "order",
             "value": "51"
+        },
+        {
+            "text": "spirit",
+            "value": "51"
+        },
+        {
+            "text": "does",
+            "value": "50"
         },
         {
             "text": "knowledge",
-            "value": "51"
+            "value": "49"
         },
         {
             "text": "god",
-            "value": "49"
+            "value": "48"
         },
         {
             "text": "true",
             "value": "48"
         },
         {
-            "text": "did",
+            "text": "just",
             "value": "47"
         },
         {
@@ -5797,51 +5777,19 @@
             "value": "46"
         },
         {
-            "text": "view",
-            "value": "46"
-        },
-        {
             "text": "let",
-            "value": "45"
-        },
-        {
-            "text": "means",
-            "value": "45"
-        },
-        {
-            "text": "people",
-            "value": "45"
-        },
-        {
-            "text": "poet",
-            "value": "45"
-        },
-        {
-            "text": "science",
             "value": "44"
         },
         {
-            "text": "power",
-            "value": "43"
-        },
-        {
-            "text": "birth",
-            "value": "42"
-        },
-        {
-            "text": "joy",
-            "value": "42"
-        },
-        {
-            "text": "self",
-            "value": "42"
+            "text": "poet",
+            "value": "44"
         },
         {
             "text": "dionysus",
             "value": "41"
         },
         {
-            "text": "general",
+            "text": "people",
             "value": "41"
         },
         {
@@ -5849,71 +5797,63 @@
             "value": "41"
         },
         {
-            "text": "works",
+            "text": "power",
             "value": "41"
-        },
-        {
-            "text": "eternal",
-            "value": "40"
-        },
-        {
-            "text": "great",
-            "value": "40"
-        },
-        {
-            "text": "individual",
-            "value": "40"
-        },
-        {
-            "text": "present",
-            "value": "40"
         },
         {
             "text": "wisdom",
             "value": "40"
         },
         {
-            "text": "apollo",
-            "value": "38"
+            "text": "eternal",
+            "value": "39"
+        },
+        {
+            "text": "joy",
+            "value": "39"
+        },
+        {
+            "text": "self",
+            "value": "39"
         },
         {
             "text": "entire",
             "value": "38"
         },
         {
-            "text": "hand",
+            "text": "view",
             "value": "38"
+        },
+        {
+            "text": "apollo",
+            "value": "37"
+        },
+        {
+            "text": "did",
+            "value": "37"
+        },
+        {
+            "text": "present",
+            "value": "37"
+        },
+        {
+            "text": "science",
+            "value": "37"
         },
         {
             "text": "sense",
-            "value": "38"
+            "value": "37"
         },
         {
             "text": "drama",
-            "value": "37"
-        },
-        {
-            "text": "german",
-            "value": "37"
-        },
-        {
-            "text": "state",
-            "value": "37"
-        },
-        {
-            "text": "æsthetic",
-            "value": "37"
-        },
-        {
-            "text": "say",
             "value": "36"
         },
         {
-            "text": "able",
-            "value": "35"
+            "text": "hand",
+            "value": "36"
         },
         {
-            "text": "according",
+            "text": "general",
             "value": "35"
         },
         {
@@ -5921,7 +5861,7 @@
             "value": "35"
         },
         {
-            "text": "regard",
+            "text": "individual",
             "value": "35"
         },
         {
@@ -5929,23 +5869,11 @@
             "value": "35"
         },
         {
-            "text": "character",
-            "value": "34"
+            "text": "æsthetic",
+            "value": "35"
         },
         {
-            "text": "day",
-            "value": "34"
-        },
-        {
-            "text": "expression",
-            "value": "34"
-        },
-        {
-            "text": "fact",
-            "value": "34"
-        },
-        {
-            "text": "genius",
+            "text": "according",
             "value": "34"
         },
         {
@@ -5953,31 +5881,11 @@
             "value": "34"
         },
         {
-            "text": "old",
+            "text": "means",
             "value": "34"
         },
         {
-            "text": "possible",
-            "value": "34"
-        },
-        {
-            "text": "spectator",
-            "value": "34"
-        },
-        {
-            "text": "book",
-            "value": "33"
-        },
-        {
-            "text": "brother",
-            "value": "33"
-        },
-        {
-            "text": "phenomena",
-            "value": "33"
-        },
-        {
-            "text": "poetry",
+            "text": "german",
             "value": "33"
         },
         {
@@ -5985,31 +5893,47 @@
             "value": "33"
         },
         {
-            "text": "men",
+            "text": "spectator",
+            "value": "33"
+        },
+        {
+            "text": "able",
             "value": "32"
         },
         {
-            "text": "schopenhauer",
+            "text": "character",
             "value": "32"
         },
         {
-            "text": "eyes",
+            "text": "expression",
+            "value": "32"
+        },
+        {
+            "text": "genius",
+            "value": "32"
+        },
+        {
+            "text": "phenomena",
+            "value": "32"
+        },
+        {
+            "text": "poetry",
+            "value": "32"
+        },
+        {
+            "text": "say",
+            "value": "32"
+        },
+        {
+            "text": "possible",
             "value": "31"
         },
         {
-            "text": "modern",
-            "value": "31"
+            "text": "book",
+            "value": "30"
         },
         {
             "text": "essence",
-            "value": "30"
-        },
-        {
-            "text": "far",
-            "value": "30"
-        },
-        {
-            "text": "place",
             "value": "30"
         },
         {
@@ -6017,94 +5941,154 @@
             "value": "30"
         },
         {
-            "text": "suffering",
-            "value": "30"
-        },
-        {
             "text": "truth",
             "value": "30"
         },
         {
-            "text": "desire",
+            "text": "day",
             "value": "29"
+        },
+        {
+            "text": "fact",
+            "value": "29"
+        },
+        {
+            "text": "far",
+            "value": "29"
+        },
+        {
+            "text": "great",
+            "value": "29"
+        },
+        {
+            "text": "modern",
+            "value": "29"
+        },
+        {
+            "text": "old",
+            "value": "29"
+        },
+        {
+            "text": "regard",
+            "value": "29"
+        },
+        {
+            "text": "state",
+            "value": "29"
+        },
+        {
+            "text": "suffering",
+            "value": "29"
+        },
+        {
+            "text": "desire",
+            "value": "28"
+        },
+        {
+            "text": "metaphysical",
+            "value": "28"
+        },
+        {
+            "text": "effect",
+            "value": "27"
+        },
+        {
+            "text": "eyes",
+            "value": "27"
+        },
+        {
+            "text": "heart",
+            "value": "27"
+        },
+        {
+            "text": "men",
+            "value": "27"
+        },
+        {
+            "text": "song",
+            "value": "27"
+        },
+        {
+            "text": "work",
+            "value": "27"
+        },
+        {
+            "text": "beauty",
+            "value": "26"
+        },
+        {
+            "text": "contemplation",
+            "value": "26"
+        },
+        {
+            "text": "illusion",
+            "value": "26"
+        },
+        {
+            "text": "manner",
+            "value": "26"
         }
     ],
     "Nietzsche: Ecce Homo": [
         {
             "text": "man",
-            "value": "156"
+            "value": "149"
         },
         {
             "text": "life",
-            "value": "151"
+            "value": "135"
         },
         {
             "text": "things",
-            "value": "108"
-        },
-        {
-            "text": "gutenberg",
-            "value": "98"
-        },
-        {
-            "text": "work",
-            "value": "95"
-        },
-        {
-            "text": "project",
-            "value": "88"
+            "value": "100"
         },
         {
             "text": "book",
-            "value": "82"
-        },
-        {
-            "text": "like",
-            "value": "82"
-        },
-        {
-            "text": "german",
             "value": "81"
         },
         {
-            "text": "day",
+            "text": "german",
             "value": "80"
         },
         {
-            "text": "time",
-            "value": "75"
+            "text": "day",
+            "value": "79"
+        },
+        {
+            "text": "like",
+            "value": "79"
         },
         {
             "text": "ye",
             "value": "75"
         },
         {
+            "text": "time",
+            "value": "73"
+        },
+        {
             "text": "good",
-            "value": "70"
-        },
-        {
-            "text": "great",
-            "value": "69"
-        },
-        {
-            "text": "wagner",
             "value": "68"
         },
         {
             "text": "fact",
-            "value": "67"
+            "value": "65"
         },
         {
-            "text": "self",
+            "text": "great",
             "value": "64"
+        },
+        {
+            "text": "wagner",
+            "value": "62"
         },
         {
             "text": "zarathustra",
-            "value": "64"
+            "value": "62"
         },
         {
-            "text": "nietzsche",
-            "value": "59"
+            "text": "self",
+            "value": "60"
         },
         {
             "text": "thy",
@@ -6115,19 +6099,7 @@
             "value": "58"
         },
         {
-            "text": "tm",
-            "value": "57"
-        },
-        {
             "text": "love",
-            "value": "56"
-        },
-        {
-            "text": "means",
-            "value": "56"
-        },
-        {
-            "text": "say",
             "value": "56"
         },
         {
@@ -6143,16 +6115,24 @@
             "value": "55"
         },
         {
+            "text": "say",
+            "value": "54"
+        },
+        {
+            "text": "means",
+            "value": "51"
+        },
+        {
             "text": "world",
-            "value": "53"
+            "value": "51"
         },
         {
             "text": "word",
-            "value": "49"
+            "value": "48"
         },
         {
             "text": "order",
-            "value": "48"
+            "value": "47"
         },
         {
             "text": "footnote",
@@ -6163,10 +6143,6 @@
             "value": "46"
         },
         {
-            "text": "know",
-            "value": "45"
-        },
-        {
             "text": "light",
             "value": "45"
         },
@@ -6175,71 +6151,59 @@
             "value": "45"
         },
         {
-            "text": "works",
-            "value": "45"
-        },
-        {
             "text": "called",
             "value": "43"
         },
         {
-            "text": "people",
-            "value": "43"
+            "text": "far",
+            "value": "40"
         },
         {
             "text": "spirit",
-            "value": "42"
+            "value": "40"
+        },
+        {
+            "text": "know",
+            "value": "39"
         },
         {
             "text": "does",
-            "value": "41"
+            "value": "38"
         },
         {
-            "text": "far",
-            "value": "41"
+            "text": "people",
+            "value": "38"
         },
         {
-            "text": "new",
-            "value": "41"
-        },
-        {
-            "text": "little",
-            "value": "39"
+            "text": "work",
+            "value": "38"
         },
         {
             "text": "way",
-            "value": "39"
-        },
-        {
-            "text": "come",
-            "value": "38"
-        },
-        {
-            "text": "thing",
-            "value": "38"
-        },
-        {
-            "text": "thought",
-            "value": "38"
-        },
-        {
-            "text": "free",
             "value": "37"
+        },
+        {
+            "text": "little",
+            "value": "36"
         },
         {
             "text": "nature",
             "value": "36"
         },
         {
-            "text": "old",
+            "text": "thing",
             "value": "36"
         },
         {
-            "text": "end",
+            "text": "come",
             "value": "35"
         },
         {
-            "text": "years",
+            "text": "new",
+            "value": "35"
+        },
+        {
+            "text": "thought",
             "value": "35"
         },
         {
@@ -6247,19 +6211,7 @@
             "value": "34"
         },
         {
-            "text": "did",
-            "value": "34"
-        },
-        {
-            "text": "hand",
-            "value": "34"
-        },
-        {
             "text": "tr",
-            "value": "34"
-        },
-        {
-            "text": "values",
             "value": "34"
         },
         {
@@ -6267,7 +6219,11 @@
             "value": "33"
         },
         {
-            "text": "yea",
+            "text": "hand",
+            "value": "33"
+        },
+        {
+            "text": "values",
             "value": "33"
         },
         {
@@ -6275,39 +6231,35 @@
             "value": "32"
         },
         {
-            "text": "kind",
+            "text": "did",
             "value": "32"
         },
         {
-            "text": "regard",
+            "text": "yea",
             "value": "32"
+        },
+        {
+            "text": "end",
+            "value": "31"
+        },
+        {
+            "text": "free",
+            "value": "31"
         },
         {
             "text": "heart",
             "value": "31"
         },
         {
+            "text": "regard",
+            "value": "31"
+        },
+        {
             "text": "instance",
-            "value": "31"
+            "value": "30"
         },
         {
-            "text": "long",
-            "value": "31"
-        },
-        {
-            "text": "make",
-            "value": "31"
-        },
-        {
-            "text": "shall",
-            "value": "31"
-        },
-        {
-            "text": "speak",
-            "value": "31"
-        },
-        {
-            "text": "future",
+            "text": "kind",
             "value": "30"
         },
         {
@@ -6315,20 +6267,28 @@
             "value": "30"
         },
         {
-            "text": "away",
-            "value": "29"
+            "text": "nietzsche",
+            "value": "30"
         },
         {
-            "text": "general",
-            "value": "29"
+            "text": "old",
+            "value": "30"
+        },
+        {
+            "text": "years",
+            "value": "30"
         },
         {
             "text": "ideal",
             "value": "29"
         },
         {
-            "text": "books",
-            "value": "28"
+            "text": "long",
+            "value": "29"
+        },
+        {
+            "text": "shall",
+            "value": "29"
         },
         {
             "text": "hitherto",
@@ -6347,47 +6307,19 @@
             "value": "28"
         },
         {
-            "text": "wisdom",
-            "value": "28"
-        },
-        {
-            "text": "words",
-            "value": "28"
-        },
-        {
-            "text": "electronic",
-            "value": "27"
-        },
-        {
             "text": "eyes",
             "value": "27"
         },
         {
-            "text": "foundation",
+            "text": "future",
             "value": "27"
         },
         {
-            "text": "germany",
+            "text": "make",
             "value": "27"
         },
         {
-            "text": "greatest",
-            "value": "27"
-        },
-        {
-            "text": "highest",
-            "value": "27"
-        },
-        {
-            "text": "idea",
-            "value": "27"
-        },
-        {
-            "text": "just",
-            "value": "27"
-        },
-        {
-            "text": "precisely",
+            "text": "speak",
             "value": "27"
         },
         {
@@ -6395,11 +6327,27 @@
             "value": "27"
         },
         {
-            "text": "evil",
+            "text": "words",
+            "value": "27"
+        },
+        {
+            "text": "away",
+            "value": "26"
+        },
+        {
+            "text": "books",
             "value": "26"
         },
         {
             "text": "feeling",
+            "value": "26"
+        },
+        {
+            "text": "greatest",
+            "value": "26"
+        },
+        {
+            "text": "highest",
             "value": "26"
         },
         {
@@ -6415,38 +6363,90 @@
             "value": "26"
         },
         {
-            "text": "task",
-            "value": "26"
-        },
-        {
             "text": "unto",
             "value": "26"
         },
         {
-            "text": "certain",
-            "value": "25"
+            "text": "wisdom",
+            "value": "26"
         },
         {
             "text": "feel",
             "value": "25"
+        },
+        {
+            "text": "germany",
+            "value": "25"
+        },
+        {
+            "text": "idea",
+            "value": "25"
+        },
+        {
+            "text": "mankind",
+            "value": "25"
+        },
+        {
+            "text": "precisely",
+            "value": "25"
+        },
+        {
+            "text": "general",
+            "value": "24"
+        },
+        {
+            "text": "just",
+            "value": "24"
+        },
+        {
+            "text": "knows",
+            "value": "24"
+        },
+        {
+            "text": "reality",
+            "value": "24"
+        },
+        {
+            "text": "sense",
+            "value": "24"
+        },
+        {
+            "text": "task",
+            "value": "24"
+        },
+        {
+            "text": "evil",
+            "value": "23"
+        },
+        {
+            "text": "longer",
+            "value": "23"
+        },
+        {
+            "text": "point",
+            "value": "23"
+        },
+        {
+            "text": "possible",
+            "value": "23"
         }
     ],
     "Nietzsche: Geneaology of Morals": [
         {
             "text": "man",
-            "value": "234"
-        },
-        {
-            "text": "good",
-            "value": "115"
+            "value": "233"
         },
         {
             "text": "ideal",
-            "value": "115"
+            "value": "114"
         },
         {
             "text": "life",
-            "value": "114"
+            "value": "113"
+        },
+        {
+            "text": "good",
+            "value": "112"
         },
         {
             "text": "time",
@@ -6454,14 +6454,10 @@
         },
         {
             "text": "ascetic",
-            "value": "102"
-        },
-        {
-            "text": "world",
             "value": "100"
         },
         {
-            "text": "gutenberg",
+            "text": "world",
             "value": "98"
         },
         {
@@ -6474,19 +6470,11 @@
         },
         {
             "text": "like",
-            "value": "89"
-        },
-        {
-            "text": "project",
             "value": "88"
         },
         {
             "text": "power",
-            "value": "80"
-        },
-        {
-            "text": "work",
-            "value": "76"
+            "value": "79"
         },
         {
             "text": "just",
@@ -6497,20 +6485,20 @@
             "value": "71"
         },
         {
-            "text": "does",
-            "value": "68"
-        },
-        {
             "text": "great",
             "value": "68"
         },
         {
+            "text": "does",
+            "value": "66"
+        },
+        {
             "text": "new",
-            "value": "68"
+            "value": "64"
         },
         {
             "text": "certain",
-            "value": "66"
+            "value": "63"
         },
         {
             "text": "men",
@@ -6521,12 +6509,12 @@
             "value": "61"
         },
         {
-            "text": "bad",
-            "value": "60"
+            "text": "kind",
+            "value": "59"
         },
         {
-            "text": "kind",
-            "value": "60"
+            "text": "bad",
+            "value": "58"
         },
         {
             "text": "day",
@@ -6541,16 +6529,8 @@
             "value": "58"
         },
         {
-            "text": "tm",
-            "value": "57"
-        },
-        {
             "text": "conscience",
-            "value": "56"
-        },
-        {
-            "text": "means",
-            "value": "56"
+            "value": "55"
         },
         {
             "text": "history",
@@ -6565,15 +6545,15 @@
             "value": "54"
         },
         {
+            "text": "means",
+            "value": "53"
+        },
+        {
             "text": "present",
             "value": "51"
         },
         {
             "text": "evil",
-            "value": "50"
-        },
-        {
-            "text": "meaning",
             "value": "49"
         },
         {
@@ -6585,11 +6565,11 @@
             "value": "49"
         },
         {
-            "text": "real",
+            "text": "meaning",
             "value": "48"
         },
         {
-            "text": "way",
+            "text": "real",
             "value": "48"
         },
         {
@@ -6598,6 +6578,10 @@
         },
         {
             "text": "rate",
+            "value": "46"
+        },
+        {
+            "text": "way",
             "value": "46"
         },
         {
@@ -6613,10 +6597,6 @@
             "value": "45"
         },
         {
-            "text": "long",
-            "value": "45"
-        },
-        {
             "text": "morality",
             "value": "45"
         },
@@ -6625,7 +6605,7 @@
             "value": "45"
         },
         {
-            "text": "end",
+            "text": "long",
             "value": "44"
         },
         {
@@ -6633,19 +6613,11 @@
             "value": "44"
         },
         {
-            "text": "come",
-            "value": "43"
-        },
-        {
             "text": "did",
             "value": "43"
         },
         {
             "text": "origin",
-            "value": "43"
-        },
-        {
-            "text": "problem",
             "value": "43"
         },
         {
@@ -6657,6 +6629,14 @@
             "value": "43"
         },
         {
+            "text": "come",
+            "value": "42"
+        },
+        {
+            "text": "end",
+            "value": "42"
+        },
+        {
             "text": "human",
             "value": "42"
         },
@@ -6665,7 +6645,7 @@
             "value": "42"
         },
         {
-            "text": "word",
+            "text": "problem",
             "value": "42"
         },
         {
@@ -6673,11 +6653,11 @@
             "value": "41"
         },
         {
-            "text": "aristocratic",
-            "value": "40"
+            "text": "word",
+            "value": "41"
         },
         {
-            "text": "form",
+            "text": "aristocratic",
             "value": "40"
         },
         {
@@ -6685,15 +6665,7 @@
             "value": "40"
         },
         {
-            "text": "old",
-            "value": "39"
-        },
-        {
             "text": "sick",
-            "value": "39"
-        },
-        {
-            "text": "things",
             "value": "39"
         },
         {
@@ -6701,15 +6673,7 @@
             "value": "39"
         },
         {
-            "text": "works",
-            "value": "39"
-        },
-        {
             "text": "doubt",
-            "value": "38"
-        },
-        {
-            "text": "make",
             "value": "38"
         },
         {
@@ -6721,11 +6685,19 @@
             "value": "37"
         },
         {
+            "text": "old",
+            "value": "37"
+        },
+        {
             "text": "race",
             "value": "37"
         },
         {
             "text": "soul",
+            "value": "37"
+        },
+        {
+            "text": "things",
             "value": "37"
         },
         {
@@ -6741,7 +6713,11 @@
             "value": "35"
         },
         {
-            "text": "law",
+            "text": "form",
+            "value": "35"
+        },
+        {
+            "text": "make",
             "value": "35"
         },
         {
@@ -6757,15 +6733,7 @@
             "value": "35"
         },
         {
-            "text": "right",
-            "value": "35"
-        },
-        {
             "text": "strong",
-            "value": "35"
-        },
-        {
-            "text": "wish",
             "value": "35"
         },
         {
@@ -6781,15 +6749,15 @@
             "value": "34"
         },
         {
+            "text": "wish",
+            "value": "34"
+        },
+        {
             "text": "nature",
             "value": "33"
         },
         {
             "text": "pain",
-            "value": "33"
-        },
-        {
-            "text": "state",
             "value": "33"
         },
         {
@@ -6821,7 +6789,7 @@
             "value": "31"
         },
         {
-            "text": "use",
+            "text": "right",
             "value": "31"
         },
         {
@@ -6829,18 +6797,46 @@
             "value": "30"
         },
         {
+            "text": "work",
+            "value": "30"
+        },
+        {
             "text": "belief",
             "value": "29"
+        },
+        {
+            "text": "europe",
+            "value": "29"
+        },
+        {
+            "text": "knowledge",
+            "value": "29"
+        },
+        {
+            "text": "simply",
+            "value": "29"
+        },
+        {
+            "text": "law",
+            "value": "28"
+        },
+        {
+            "text": "makes",
+            "value": "28"
+        },
+        {
+            "text": "said",
+            "value": "28"
+        },
+        {
+            "text": "schopenhauer",
+            "value": "28"
         }
     ],
     "Nietzsche: Human, All Too Human": [
         {
             "text": "man",
             "value": "167"
-        },
-        {
-            "text": "gutenberg",
-            "value": "93"
         },
         {
             "text": "world",
@@ -6855,44 +6851,32 @@
             "value": "90"
         },
         {
-            "text": "project",
-            "value": "89"
-        },
-        {
             "text": "things",
-            "value": "86"
+            "value": "84"
         },
         {
             "text": "life",
-            "value": "75"
+            "value": "74"
         },
         {
             "text": "good",
             "value": "70"
         },
         {
-            "text": "human",
-            "value": "70"
+            "text": "self",
+            "value": "66"
         },
         {
             "text": "does",
-            "value": "66"
-        },
-        {
-            "text": "self",
-            "value": "66"
+            "value": "64"
         },
         {
             "text": "feeling",
             "value": "59"
         },
         {
-            "text": "tm",
-            "value": "57"
-        },
-        {
-            "text": "work",
-            "value": "57"
+            "text": "human",
+            "value": "58"
         },
         {
             "text": "thing",
@@ -6907,16 +6891,16 @@
             "value": "52"
         },
         {
-            "text": "individual",
-            "value": "52"
-        },
-        {
             "text": "pain",
             "value": "51"
         },
         {
             "text": "bad",
             "value": "50"
+        },
+        {
+            "text": "individual",
+            "value": "48"
         },
         {
             "text": "moral",
@@ -6927,15 +6911,11 @@
             "value": "47"
         },
         {
-            "text": "certain",
-            "value": "46"
-        },
-        {
             "text": "acts",
             "value": "44"
         },
         {
-            "text": "free",
+            "text": "certain",
             "value": "44"
         },
         {
@@ -6949,10 +6929,6 @@
         {
             "text": "time",
             "value": "44"
-        },
-        {
-            "text": "means",
-            "value": "43"
         },
         {
             "text": "conduct",
@@ -6975,6 +6951,10 @@
             "value": "40"
         },
         {
+            "text": "means",
+            "value": "40"
+        },
+        {
             "text": "religion",
             "value": "40"
         },
@@ -6985,6 +6965,10 @@
         {
             "text": "order",
             "value": "38"
+        },
+        {
+            "text": "free",
+            "value": "37"
         },
         {
             "text": "power",
@@ -6999,19 +6983,7 @@
             "value": "36"
         },
         {
-            "text": "works",
-            "value": "36"
-        },
-        {
-            "text": "foundation",
-            "value": "35"
-        },
-        {
             "text": "like",
-            "value": "35"
-        },
-        {
-            "text": "state",
             "value": "35"
         },
         {
@@ -7035,11 +7007,11 @@
             "value": "33"
         },
         {
-            "text": "way",
-            "value": "33"
+            "text": "day",
+            "value": "31"
         },
         {
-            "text": "day",
+            "text": "way",
             "value": "31"
         },
         {
@@ -7063,6 +7035,10 @@
             "value": "29"
         },
         {
+            "text": "state",
+            "value": "29"
+        },
+        {
             "text": "feel",
             "value": "28"
         },
@@ -7079,27 +7055,7 @@
             "value": "28"
         },
         {
-            "text": "domain",
-            "value": "27"
-        },
-        {
-            "text": "electronic",
-            "value": "27"
-        },
-        {
             "text": "example",
-            "value": "27"
-        },
-        {
-            "text": "form",
-            "value": "27"
-        },
-        {
-            "text": "general",
-            "value": "27"
-        },
-        {
-            "text": "make",
             "value": "27"
         },
         {
@@ -7119,19 +7075,15 @@
             "value": "27"
         },
         {
-            "text": "course",
-            "value": "26"
-        },
-        {
             "text": "fact",
             "value": "26"
         },
         {
-            "text": "away",
+            "text": "belief",
             "value": "25"
         },
         {
-            "text": "belief",
+            "text": "course",
             "value": "25"
         },
         {
@@ -7151,7 +7103,11 @@
             "value": "24"
         },
         {
-            "text": "new",
+            "text": "general",
+            "value": "24"
+        },
+        {
+            "text": "make",
             "value": "24"
         },
         {
@@ -7175,6 +7131,10 @@
             "value": "23"
         },
         {
+            "text": "form",
+            "value": "23"
+        },
+        {
             "text": "freedom",
             "value": "23"
         },
@@ -7187,14 +7147,6 @@
             "value": "23"
         },
         {
-            "text": "long",
-            "value": "23"
-        },
-        {
-            "text": "need",
-            "value": "23"
-        },
-        {
             "text": "opinion",
             "value": "23"
         },
@@ -7203,15 +7155,7 @@
             "value": "23"
         },
         {
-            "text": "states",
-            "value": "23"
-        },
-        {
-            "text": "cause",
-            "value": "22"
-        },
-        {
-            "text": "extent",
+            "text": "away",
             "value": "22"
         },
         {
@@ -7223,7 +7167,11 @@
             "value": "22"
         },
         {
-            "text": "people",
+            "text": "long",
+            "value": "22"
+        },
+        {
+            "text": "need",
             "value": "22"
         },
         {
@@ -7233,6 +7181,58 @@
         {
             "text": "simply",
             "value": "22"
+        },
+        {
+            "text": "civilization",
+            "value": "21"
+        },
+        {
+            "text": "extent",
+            "value": "21"
+        },
+        {
+            "text": "look",
+            "value": "21"
+        },
+        {
+            "text": "mind",
+            "value": "21"
+        },
+        {
+            "text": "morality",
+            "value": "21"
+        },
+        {
+            "text": "new",
+            "value": "21"
+        },
+        {
+            "text": "brought",
+            "value": "20"
+        },
+        {
+            "text": "cause",
+            "value": "20"
+        },
+        {
+            "text": "faith",
+            "value": "20"
+        },
+        {
+            "text": "motives",
+            "value": "20"
+        },
+        {
+            "text": "powerful",
+            "value": "20"
+        },
+        {
+            "text": "taken",
+            "value": "20"
+        },
+        {
+            "text": "degree",
+            "value": "19"
         }
     ],
     "Nietzsche: Joyful Wisdom": [
@@ -7250,7 +7250,7 @@
         },
         {
             "text": "life",
-            "value": "169"
+            "value": "167"
         },
         {
             "text": "good",
@@ -7258,39 +7258,39 @@
         },
         {
             "text": "people",
-            "value": "159"
+            "value": "156"
         },
         {
             "text": "does",
-            "value": "132"
+            "value": "130"
         },
         {
             "text": "things",
-            "value": "126"
-        },
-        {
-            "text": "know",
-            "value": "121"
+            "value": "124"
         },
         {
             "text": "great",
             "value": "120"
         },
         {
-            "text": "_the",
-            "value": "118"
+            "text": "know",
+            "value": "120"
         },
         {
             "text": "time",
             "value": "118"
         },
         {
-            "text": "world",
+            "text": "_the",
             "value": "117"
         },
         {
-            "text": "just",
+            "text": "world",
             "value": "115"
+        },
+        {
+            "text": "just",
+            "value": "114"
         },
         {
             "text": "let",
@@ -7305,28 +7305,12 @@
             "value": "99"
         },
         {
-            "text": "gutenberg",
-            "value": "98"
-        },
-        {
             "text": "new",
-            "value": "97"
-        },
-        {
-            "text": "work",
             "value": "94"
-        },
-        {
-            "text": "person",
-            "value": "91"
         },
         {
             "text": "self",
             "value": "91"
-        },
-        {
-            "text": "project",
-            "value": "88"
         },
         {
             "text": "say",
@@ -7341,8 +7325,8 @@
             "value": "87"
         },
         {
-            "text": "make",
-            "value": "86"
+            "text": "person",
+            "value": "87"
         },
         {
             "text": "day",
@@ -7361,8 +7345,12 @@
             "value": "84"
         },
         {
-            "text": "old",
+            "text": "make",
             "value": "83"
+        },
+        {
+            "text": "old",
+            "value": "81"
         },
         {
             "text": "soul",
@@ -7371,10 +7359,6 @@
         {
             "text": "thou",
             "value": "79"
-        },
-        {
-            "text": "means",
-            "value": "78"
         },
         {
             "text": "knowledge",
@@ -7389,12 +7373,16 @@
             "value": "75"
         },
         {
-            "text": "kind",
+            "text": "means",
             "value": "75"
         },
         {
+            "text": "kind",
+            "value": "74"
+        },
+        {
             "text": "long",
-            "value": "72"
+            "value": "71"
         },
         {
             "text": "thought",
@@ -7405,11 +7393,11 @@
             "value": "70"
         },
         {
-            "text": "truth",
-            "value": "69"
+            "text": "order",
+            "value": "68"
         },
         {
-            "text": "order",
+            "text": "truth",
             "value": "68"
         },
         {
@@ -7429,20 +7417,8 @@
             "value": "62"
         },
         {
-            "text": "way",
-            "value": "62"
-        },
-        {
             "text": "far",
             "value": "61"
-        },
-        {
-            "text": "need",
-            "value": "61"
-        },
-        {
-            "text": "different",
-            "value": "60"
         },
         {
             "text": "moral",
@@ -7453,11 +7429,19 @@
             "value": "60"
         },
         {
-            "text": "existence",
+            "text": "need",
+            "value": "60"
+        },
+        {
+            "text": "way",
+            "value": "60"
+        },
+        {
+            "text": "different",
             "value": "59"
         },
         {
-            "text": "little",
+            "text": "existence",
             "value": "59"
         },
         {
@@ -7473,16 +7457,12 @@
             "value": "58"
         },
         {
-            "text": "virtue",
+            "text": "little",
             "value": "58"
         },
         {
-            "text": "individual",
-            "value": "57"
-        },
-        {
-            "text": "tm",
-            "value": "57"
+            "text": "virtue",
+            "value": "58"
         },
         {
             "text": "german",
@@ -7498,10 +7478,6 @@
         },
         {
             "text": "best",
-            "value": "55"
-        },
-        {
-            "text": "did",
             "value": "54"
         },
         {
@@ -7511,6 +7487,14 @@
         {
             "text": "thy",
             "value": "54"
+        },
+        {
+            "text": "did",
+            "value": "53"
+        },
+        {
+            "text": "individual",
+            "value": "53"
         },
         {
             "text": "live",
@@ -7537,10 +7521,6 @@
             "value": "50"
         },
         {
-            "text": "end",
-            "value": "50"
-        },
-        {
             "text": "possible",
             "value": "50"
         },
@@ -7561,7 +7541,15 @@
             "value": "49"
         },
         {
+            "text": "end",
+            "value": "48"
+        },
+        {
             "text": "precisely",
+            "value": "48"
+        },
+        {
+            "text": "work",
             "value": "48"
         },
         {
@@ -7581,40 +7569,24 @@
             "value": "46"
         },
         {
-            "text": "feel",
-            "value": "46"
-        },
-        {
-            "text": "makes",
-            "value": "46"
-        },
-        {
             "text": "passion",
             "value": "46"
         },
         {
-            "text": "shall",
-            "value": "46"
+            "text": "feel",
+            "value": "45"
+        },
+        {
+            "text": "makes",
+            "value": "45"
         },
         {
             "text": "woman",
             "value": "45"
         },
         {
-            "text": "words",
-            "value": "45"
-        },
-        {
-            "text": "light",
+            "text": "shall",
             "value": "44"
-        },
-        {
-            "text": "right",
-            "value": "44"
-        },
-        {
-            "text": "away",
-            "value": "43"
         },
         {
             "text": "believe",
@@ -7629,405 +7601,357 @@
             "value": "43"
         },
         {
-            "text": "future",
+            "text": "light",
             "value": "43"
         },
         {
             "text": "reason",
             "value": "43"
+        },
+        {
+            "text": "words",
+            "value": "43"
+        },
+        {
+            "text": "honour",
+            "value": "42"
+        },
+        {
+            "text": "really",
+            "value": "42"
+        },
+        {
+            "text": "understand",
+            "value": "42"
+        },
+        {
+            "text": "question",
+            "value": "41"
+        },
+        {
+            "text": "age",
+            "value": "40"
+        },
+        {
+            "text": "away",
+            "value": "40"
         }
     ],
     "Nietzsche: Thus Spoke Zarathustra": [
         {
             "text": "thou",
-            "value": "883"
-        },
-        {
-            "text": "zarathustra",
-            "value": "716"
+            "value": "870"
         },
         {
             "text": "ye",
-            "value": "659"
+            "value": "649"
         },
         {
-            "text": "man",
-            "value": "414"
+            "text": "zarathustra",
+            "value": "595"
         },
         {
             "text": "hath",
-            "value": "406"
+            "value": "398"
         },
         {
             "text": "did",
-            "value": "385"
+            "value": "376"
         },
         {
             "text": "thy",
-            "value": "384"
+            "value": "376"
         },
         {
             "text": "thee",
-            "value": "357"
+            "value": "344"
         },
         {
             "text": "unto",
-            "value": "351"
+            "value": "344"
+        },
+        {
+            "text": "man",
+            "value": "318"
         },
         {
             "text": "like",
-            "value": "303"
+            "value": "282"
         },
         {
             "text": "love",
-            "value": "300"
+            "value": "277"
         },
         {
             "text": "good",
-            "value": "293"
-        },
-        {
-            "text": "great",
-            "value": "242"
-        },
-        {
-            "text": "men",
-            "value": "230"
+            "value": "250"
         },
         {
             "text": "ones",
-            "value": "227"
+            "value": "215"
         },
         {
             "text": "doth",
-            "value": "209"
+            "value": "205"
         },
         {
-            "text": "shall",
-            "value": "204"
-        },
-        {
-            "text": "said",
-            "value": "199"
-        },
-        {
-            "text": "life",
-            "value": "197"
+            "text": "great",
+            "value": "194"
         },
         {
             "text": "verily",
-            "value": "197"
+            "value": "194"
         },
         {
-            "text": "day",
-            "value": "195"
+            "text": "said",
+            "value": "189"
         },
         {
-            "text": "spake",
-            "value": "186"
+            "text": "shall",
+            "value": "183"
         },
         {
             "text": "heart",
-            "value": "185"
+            "value": "179"
         },
         {
-            "text": "spirit",
-            "value": "181"
+            "text": "day",
+            "value": "171"
         },
         {
-            "text": "nietzsche",
-            "value": "175"
+            "text": "men",
+            "value": "170"
         },
         {
-            "text": "old",
-            "value": "174"
-        },
-        {
-            "text": "long",
-            "value": "169"
-        },
-        {
-            "text": "things",
+            "text": "spake",
             "value": "168"
         },
         {
+            "text": "spirit",
+            "value": "166"
+        },
+        {
+            "text": "old",
+            "value": "158"
+        },
+        {
+            "text": "long",
+            "value": "157"
+        },
+        {
             "text": "soul",
-            "value": "159"
+            "value": "153"
         },
         {
-            "text": "time",
-            "value": "159"
+            "text": "life",
+            "value": "143"
         },
         {
-            "text": "new",
-            "value": "157"
-        },
-        {
-            "text": "world",
-            "value": "157"
+            "text": "things",
+            "value": "143"
         },
         {
             "text": "god",
-            "value": "149"
+            "value": "137"
         },
         {
-            "text": "higher",
-            "value": "147"
+            "text": "time",
+            "value": "137"
         },
         {
-            "text": "virtue",
-            "value": "144"
-        },
-        {
-            "text": "people",
-            "value": "141"
+            "text": "world",
+            "value": "134"
         },
         {
             "text": "come",
-            "value": "140"
-        },
-        {
-            "text": "say",
-            "value": "138"
-        },
-        {
-            "text": "evil",
-            "value": "132"
-        },
-        {
-            "text": "know",
             "value": "131"
         },
         {
-            "text": "away",
+            "text": "virtue",
             "value": "127"
         },
         {
-            "text": "earth",
+            "text": "people",
             "value": "124"
         },
         {
-            "text": "way",
-            "value": "117"
+            "text": "away",
+            "value": "121"
         },
         {
-            "text": "speak",
+            "text": "earth",
             "value": "116"
         },
         {
-            "text": "art",
+            "text": "say",
+            "value": "116"
+        },
+        {
+            "text": "know",
             "value": "114"
         },
         {
+            "text": "new",
+            "value": "114"
+        },
+        {
+            "text": "speak",
+            "value": "110"
+        },
+        {
             "text": "ah",
-            "value": "111"
-        },
-        {
-            "text": "little",
-            "value": "111"
-        },
-        {
-            "text": "let",
             "value": "108"
         },
         {
-            "text": "just",
-            "value": "105"
+            "text": "art",
+            "value": "104"
         },
         {
-            "text": "happiness",
-            "value": "102"
+            "text": "let",
+            "value": "104"
         },
         {
-            "text": "best",
+            "text": "evil",
+            "value": "103"
+        },
+        {
+            "text": "higher",
             "value": "101"
         },
         {
             "text": "thyself",
-            "value": "100"
+            "value": "98"
         },
         {
-            "text": "gutenberg",
+            "text": "happiness",
+            "value": "97"
+        },
+        {
+            "text": "way",
             "value": "93"
         },
         {
-            "text": "thing",
+            "text": "little",
+            "value": "92"
+        },
+        {
+            "text": "just",
             "value": "91"
         },
         {
-            "text": "called",
-            "value": "90"
-        },
-        {
-            "text": "longer",
-            "value": "90"
+            "text": "best",
+            "value": "89"
         },
         {
             "text": "eyes",
             "value": "89"
         },
         {
-            "text": "want",
-            "value": "89"
-        },
-        {
-            "text": "bad",
-            "value": "87"
-        },
-        {
-            "text": "came",
-            "value": "87"
-        },
-        {
-            "text": "project",
-            "value": "87"
-        },
-        {
-            "text": "light",
-            "value": "85"
+            "text": "thing",
+            "value": "83"
         },
         {
             "text": "brethren",
-            "value": "83"
-        },
-        {
-            "text": "learn",
-            "value": "83"
-        },
-        {
-            "text": "work",
-            "value": "83"
-        },
-        {
-            "text": "truth",
-            "value": "82"
-        },
-        {
-            "text": "wisdom",
-            "value": "82"
-        },
-        {
-            "text": "small",
             "value": "81"
         },
         {
-            "text": "chapter",
-            "value": "79"
+            "text": "want",
+            "value": "81"
         },
         {
-            "text": "words",
+            "text": "wisdom",
+            "value": "81"
+        },
+        {
+            "text": "came",
+            "value": "80"
+        },
+        {
+            "text": "called",
             "value": "79"
         },
         {
             "text": "hast",
-            "value": "78"
-        },
-        {
-            "text": "power",
-            "value": "78"
-        },
-        {
-            "text": "make",
             "value": "77"
         },
         {
-            "text": "woman",
+            "text": "bad",
             "value": "76"
         },
         {
+            "text": "truth",
+            "value": "76"
+        },
+        {
+            "text": "light",
+            "value": "75"
+        },
+        {
+            "text": "longer",
+            "value": "75"
+        },
+        {
+            "text": "learn",
+            "value": "73"
+        },
+        {
+            "text": "small",
+            "value": "71"
+        },
+        {
+            "text": "woman",
+            "value": "71"
+        },
+        {
             "text": "night",
-            "value": "74"
-        },
-        {
-            "text": "death",
-            "value": "73"
-        },
-        {
-            "text": "eye",
-            "value": "73"
-        },
-        {
-            "text": "body",
-            "value": "72"
-        },
-        {
-            "text": "animals",
-            "value": "71"
-        },
-        {
-            "text": "sea",
-            "value": "71"
-        },
-        {
-            "text": "hand",
             "value": "70"
         },
         {
-            "text": "present",
+            "text": "animals",
             "value": "68"
         },
         {
-            "text": "self",
-            "value": "66"
+            "text": "eye",
+            "value": "68"
         },
         {
-            "text": "oh",
+            "text": "words",
+            "value": "67"
+        },
+        {
+            "text": "death",
             "value": "65"
         },
         {
-            "text": "cave",
+            "text": "make",
+            "value": "65"
+        },
+        {
+            "text": "sea",
+            "value": "65"
+        },
+        {
+            "text": "oh",
+            "value": "64"
+        },
+        {
+            "text": "body",
             "value": "63"
-        },
-        {
-            "text": "hour",
-            "value": "63"
-        },
-        {
-            "text": "live",
-            "value": "63"
-        },
-        {
-            "text": "pity",
-            "value": "63"
-        },
-        {
-            "text": "place",
-            "value": "62"
-        },
-        {
-            "text": "values",
-            "value": "62"
         },
         {
             "text": "yea",
-            "value": "62"
+            "value": "61"
         },
         {
             "text": "better",
-            "value": "61"
+            "value": "60"
         },
         {
-            "text": "friends",
-            "value": "61"
-        },
-        {
-            "text": "children",
+            "text": "hand",
             "value": "60"
         },
         {
             "text": "cometh",
-            "value": "60"
-        },
-        {
-            "text": "friend",
-            "value": "60"
-        },
-        {
-            "text": "thought",
-            "value": "60"
-        },
-        {
-            "text": "hear",
             "value": "59"
         },
         {
@@ -8035,8 +7959,84 @@
             "value": "58"
         },
         {
-            "text": "human",
+            "text": "hour",
             "value": "58"
+        },
+        {
+            "text": "live",
+            "value": "58"
+        },
+        {
+            "text": "wilt",
+            "value": "57"
+        },
+        {
+            "text": "cave",
+            "value": "56"
+        },
+        {
+            "text": "children",
+            "value": "56"
+        },
+        {
+            "text": "friends",
+            "value": "56"
+        },
+        {
+            "text": "hear",
+            "value": "56"
+        },
+        {
+            "text": "voice",
+            "value": "55"
+        },
+        {
+            "text": "weary",
+            "value": "55"
+        },
+        {
+            "text": "power",
+            "value": "54"
+        },
+        {
+            "text": "sun",
+            "value": "54"
+        },
+        {
+            "text": "thine",
+            "value": "54"
+        },
+        {
+            "text": "longing",
+            "value": "53"
+        },
+        {
+            "text": "present",
+            "value": "53"
+        },
+        {
+            "text": "heard",
+            "value": "52"
+        },
+        {
+            "text": "behold",
+            "value": "51"
+        },
+        {
+            "text": "believe",
+            "value": "51"
+        },
+        {
+            "text": "head",
+            "value": "51"
+        },
+        {
+            "text": "lie",
+            "value": "51"
+        },
+        {
+            "text": "mountains",
+            "value": "51"
         }
     ]
 }
