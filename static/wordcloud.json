@@ -1,0 +1,4424 @@
+{
+    "Hume: All": [
+        {
+            "text": "idea",
+            "value": "960"
+        },
+        {
+            "text": "object",
+            "value": "864"
+        },
+        {
+            "text": "mind",
+            "value": "853"
+        },
+        {
+            "text": "nature",
+            "value": "845"
+        },
+        {
+            "text": "objects",
+            "value": "843"
+        },
+        {
+            "text": "ideas",
+            "value": "802"
+        },
+        {
+            "text": "reason",
+            "value": "725"
+        },
+        {
+            "text": "cause",
+            "value": "644"
+        },
+        {
+            "text": "human",
+            "value": "637"
+        },
+        {
+            "text": "present",
+            "value": "607"
+        },
+        {
+            "text": "particular",
+            "value": "545"
+        },
+        {
+            "text": "natural",
+            "value": "529"
+        },
+        {
+            "text": "different",
+            "value": "527"
+        },
+        {
+            "text": "relation",
+            "value": "517"
+        },
+        {
+            "text": "causes",
+            "value": "511"
+        },
+        {
+            "text": "man",
+            "value": "510"
+        },
+        {
+            "text": "men",
+            "value": "507"
+        },
+        {
+            "text": "experience",
+            "value": "494"
+        },
+        {
+            "text": "passions",
+            "value": "493"
+        },
+        {
+            "text": "certain",
+            "value": "486"
+        },
+        {
+            "text": "effect",
+            "value": "477"
+        },
+        {
+            "text": "manner",
+            "value": "451"
+        },
+        {
+            "text": "imagination",
+            "value": "450"
+        },
+        {
+            "text": "general",
+            "value": "447"
+        },
+        {
+            "text": "principles",
+            "value": "437"
+        },
+        {
+            "text": "concerning",
+            "value": "435"
+        },
+        {
+            "text": "passion",
+            "value": "425"
+        },
+        {
+            "text": "person",
+            "value": "423"
+        },
+        {
+            "text": "shall",
+            "value": "418"
+        },
+        {
+            "text": "reasoning",
+            "value": "408"
+        },
+        {
+            "text": "make",
+            "value": "397"
+        },
+        {
+            "text": "order",
+            "value": "397"
+        },
+        {
+            "text": "existence",
+            "value": "395"
+        },
+        {
+            "text": "qualities",
+            "value": "395"
+        },
+        {
+            "text": "principle",
+            "value": "393"
+        },
+        {
+            "text": "time",
+            "value": "379"
+        },
+        {
+            "text": "regard",
+            "value": "374"
+        },
+        {
+            "text": "pleasure",
+            "value": "370"
+        },
+        {
+            "text": "case",
+            "value": "364"
+        },
+        {
+            "text": "force",
+            "value": "363"
+        },
+        {
+            "text": "great",
+            "value": "359"
+        },
+        {
+            "text": "common",
+            "value": "357"
+        },
+        {
+            "text": "new",
+            "value": "353"
+        },
+        {
+            "text": "influence",
+            "value": "351"
+        },
+        {
+            "text": "love",
+            "value": "340"
+        },
+        {
+            "text": "impression",
+            "value": "339"
+        },
+        {
+            "text": "society",
+            "value": "337"
+        },
+        {
+            "text": "contrary",
+            "value": "336"
+        },
+        {
+            "text": "kind",
+            "value": "327"
+        },
+        {
+            "text": "good",
+            "value": "325"
+        },
+        {
+            "text": "impressions",
+            "value": "325"
+        },
+        {
+            "text": "actions",
+            "value": "323"
+        },
+        {
+            "text": "power",
+            "value": "315"
+        },
+        {
+            "text": "form",
+            "value": "312"
+        },
+        {
+            "text": "like",
+            "value": "311"
+        },
+        {
+            "text": "consider",
+            "value": "309"
+        },
+        {
+            "text": "entirely",
+            "value": "309"
+        },
+        {
+            "text": "produce",
+            "value": "309"
+        },
+        {
+            "text": "derived",
+            "value": "306"
+        },
+        {
+            "text": "betwixt",
+            "value": "302"
+        },
+        {
+            "text": "evident",
+            "value": "302"
+        },
+        {
+            "text": "impossible",
+            "value": "300"
+        },
+        {
+            "text": "matter",
+            "value": "300"
+        },
+        {
+            "text": "observe",
+            "value": "296"
+        },
+        {
+            "text": "effects",
+            "value": "289"
+        },
+        {
+            "text": "philosophy",
+            "value": "286"
+        },
+        {
+            "text": "subject",
+            "value": "282"
+        },
+        {
+            "text": "relations",
+            "value": "281"
+        },
+        {
+            "text": "justice",
+            "value": "278"
+        },
+        {
+            "text": "sentiments",
+            "value": "278"
+        },
+        {
+            "text": "thing",
+            "value": "274"
+        },
+        {
+            "text": "parts",
+            "value": "273"
+        },
+        {
+            "text": "thought",
+            "value": "267"
+        },
+        {
+            "text": "senses",
+            "value": "264"
+        },
+        {
+            "text": "place",
+            "value": "263"
+        },
+        {
+            "text": "pride",
+            "value": "260"
+        },
+        {
+            "text": "virtue",
+            "value": "260"
+        },
+        {
+            "text": "moral",
+            "value": "259"
+        },
+        {
+            "text": "action",
+            "value": "257"
+        },
+        {
+            "text": "suppose",
+            "value": "256"
+        },
+        {
+            "text": "perceptions",
+            "value": "252"
+        },
+        {
+            "text": "degree",
+            "value": "248"
+        },
+        {
+            "text": "life",
+            "value": "248"
+        },
+        {
+            "text": "greater",
+            "value": "245"
+        },
+        {
+            "text": "connexion",
+            "value": "244"
+        },
+        {
+            "text": "property",
+            "value": "240"
+        },
+        {
+            "text": "sect",
+            "value": "238"
+        },
+        {
+            "text": "according",
+            "value": "237"
+        },
+        {
+            "text": "arises",
+            "value": "230"
+        },
+        {
+            "text": "naturally",
+            "value": "230"
+        },
+        {
+            "text": "sentiment",
+            "value": "229"
+        },
+        {
+            "text": "species",
+            "value": "229"
+        },
+        {
+            "text": "sense",
+            "value": "228"
+        },
+        {
+            "text": "mankind",
+            "value": "227"
+        },
+        {
+            "text": "world",
+            "value": "227"
+        },
+        {
+            "text": "immediately",
+            "value": "225"
+        },
+        {
+            "text": "means",
+            "value": "225"
+        },
+        {
+            "text": "gives",
+            "value": "221"
+        },
+        {
+            "text": "necessary",
+            "value": "220"
+        },
+        {
+            "text": "body",
+            "value": "217"
+        }
+    ],
+    "Hume: An Enquiry Concerning Human Understanding": [
+        {
+            "text": "nature",
+            "value": "200"
+        },
+        {
+            "text": "experience",
+            "value": "166"
+        },
+        {
+            "text": "cause",
+            "value": "155"
+        },
+        {
+            "text": "mind",
+            "value": "145"
+        },
+        {
+            "text": "human",
+            "value": "142"
+        },
+        {
+            "text": "effect",
+            "value": "124"
+        },
+        {
+            "text": "ideas",
+            "value": "121"
+        },
+        {
+            "text": "objects",
+            "value": "120"
+        },
+        {
+            "text": "idea",
+            "value": "116"
+        },
+        {
+            "text": "reason",
+            "value": "116"
+        },
+        {
+            "text": "reasoning",
+            "value": "109"
+        },
+        {
+            "text": "power",
+            "value": "103"
+        },
+        {
+            "text": "particular",
+            "value": "95"
+        },
+        {
+            "text": "man",
+            "value": "94"
+        },
+        {
+            "text": "object",
+            "value": "92"
+        },
+        {
+            "text": "philosophy",
+            "value": "92"
+        },
+        {
+            "text": "fact",
+            "value": "90"
+        },
+        {
+            "text": "matter",
+            "value": "86"
+        },
+        {
+            "text": "concerning",
+            "value": "80"
+        },
+        {
+            "text": "principles",
+            "value": "78"
+        },
+        {
+            "text": "different",
+            "value": "77"
+        },
+        {
+            "text": "causes",
+            "value": "76"
+        },
+        {
+            "text": "event",
+            "value": "76"
+        },
+        {
+            "text": "natural",
+            "value": "76"
+        },
+        {
+            "text": "actions",
+            "value": "74"
+        },
+        {
+            "text": "men",
+            "value": "72"
+        },
+        {
+            "text": "present",
+            "value": "70"
+        },
+        {
+            "text": "connexion",
+            "value": "68"
+        },
+        {
+            "text": "life",
+            "value": "66"
+        },
+        {
+            "text": "testimony",
+            "value": "66"
+        },
+        {
+            "text": "effects",
+            "value": "65"
+        },
+        {
+            "text": "shall",
+            "value": "64"
+        },
+        {
+            "text": "entirely",
+            "value": "63"
+        },
+        {
+            "text": "senses",
+            "value": "63"
+        },
+        {
+            "text": "qualities",
+            "value": "61"
+        },
+        {
+            "text": "existence",
+            "value": "60"
+        },
+        {
+            "text": "force",
+            "value": "60"
+        },
+        {
+            "text": "general",
+            "value": "60"
+        },
+        {
+            "text": "like",
+            "value": "60"
+        },
+        {
+            "text": "argument",
+            "value": "59"
+        },
+        {
+            "text": "certain",
+            "value": "58"
+        },
+        {
+            "text": "principle",
+            "value": "58"
+        },
+        {
+            "text": "regard",
+            "value": "58"
+        },
+        {
+            "text": "necessity",
+            "value": "57"
+        },
+        {
+            "text": "operations",
+            "value": "56"
+        },
+        {
+            "text": "miracle",
+            "value": "54"
+        },
+        {
+            "text": "reasonings",
+            "value": "54"
+        },
+        {
+            "text": "events",
+            "value": "53"
+        },
+        {
+            "text": "evidence",
+            "value": "53"
+        },
+        {
+            "text": "operation",
+            "value": "53"
+        },
+        {
+            "text": "common",
+            "value": "51"
+        },
+        {
+            "text": "derived",
+            "value": "51"
+        },
+        {
+            "text": "know",
+            "value": "51"
+        },
+        {
+            "text": "new",
+            "value": "51"
+        },
+        {
+            "text": "manner",
+            "value": "50"
+        },
+        {
+            "text": "contrary",
+            "value": "49"
+        },
+        {
+            "text": "make",
+            "value": "49"
+        },
+        {
+            "text": "mankind",
+            "value": "49"
+        },
+        {
+            "text": "course",
+            "value": "48"
+        },
+        {
+            "text": "similar",
+            "value": "48"
+        },
+        {
+            "text": "understanding",
+            "value": "48"
+        },
+        {
+            "text": "body",
+            "value": "47"
+        },
+        {
+            "text": "able",
+            "value": "46"
+        },
+        {
+            "text": "infer",
+            "value": "46"
+        },
+        {
+            "text": "authority",
+            "value": "45"
+        },
+        {
+            "text": "influence",
+            "value": "45"
+        },
+        {
+            "text": "instance",
+            "value": "45"
+        },
+        {
+            "text": "motion",
+            "value": "45"
+        },
+        {
+            "text": "species",
+            "value": "45"
+        },
+        {
+            "text": "circumstances",
+            "value": "44"
+        },
+        {
+            "text": "sensible",
+            "value": "44"
+        },
+        {
+            "text": "farther",
+            "value": "43"
+        },
+        {
+            "text": "inference",
+            "value": "43"
+        },
+        {
+            "text": "order",
+            "value": "43"
+        },
+        {
+            "text": "supposed",
+            "value": "43"
+        },
+        {
+            "text": "instances",
+            "value": "42"
+        },
+        {
+            "text": "kind",
+            "value": "42"
+        },
+        {
+            "text": "greater",
+            "value": "41"
+        },
+        {
+            "text": "number",
+            "value": "41"
+        },
+        {
+            "text": "thought",
+            "value": "41"
+        },
+        {
+            "text": "case",
+            "value": "40"
+        },
+        {
+            "text": "degree",
+            "value": "40"
+        },
+        {
+            "text": "necessary",
+            "value": "40"
+        },
+        {
+            "text": "world",
+            "value": "40"
+        },
+        {
+            "text": "belief",
+            "value": "39"
+        },
+        {
+            "text": "immediately",
+            "value": "39"
+        },
+        {
+            "text": "philosophers",
+            "value": "39"
+        },
+        {
+            "text": "imagination",
+            "value": "38"
+        },
+        {
+            "text": "impossible",
+            "value": "38"
+        },
+        {
+            "text": "known",
+            "value": "38"
+        },
+        {
+            "text": "miracles",
+            "value": "38"
+        },
+        {
+            "text": "time",
+            "value": "38"
+        },
+        {
+            "text": "arguments",
+            "value": "37"
+        },
+        {
+            "text": "discover",
+            "value": "37"
+        },
+        {
+            "text": "knowledge",
+            "value": "37"
+        },
+        {
+            "text": "proper",
+            "value": "37"
+        },
+        {
+            "text": "sentiment",
+            "value": "37"
+        },
+        {
+            "text": "action",
+            "value": "36"
+        },
+        {
+            "text": "conclusion",
+            "value": "36"
+        },
+        {
+            "text": "great",
+            "value": "36"
+        }
+    ],
+    "Hume: An Enquiry Concerning the Principles of Morals": [
+        {
+            "text": "man",
+            "value": "148"
+        },
+        {
+            "text": "society",
+            "value": "124"
+        },
+        {
+            "text": "nature",
+            "value": "111"
+        },
+        {
+            "text": "sentiment",
+            "value": "109"
+        },
+        {
+            "text": "general",
+            "value": "100"
+        },
+        {
+            "text": "justice",
+            "value": "97"
+        },
+        {
+            "text": "human",
+            "value": "95"
+        },
+        {
+            "text": "men",
+            "value": "89"
+        },
+        {
+            "text": "regard",
+            "value": "89"
+        },
+        {
+            "text": "good",
+            "value": "88"
+        },
+        {
+            "text": "moral",
+            "value": "84"
+        },
+        {
+            "text": "reason",
+            "value": "81"
+        },
+        {
+            "text": "virtue",
+            "value": "81"
+        },
+        {
+            "text": "sentiments",
+            "value": "79"
+        },
+        {
+            "text": "particular",
+            "value": "77"
+        },
+        {
+            "text": "mankind",
+            "value": "73"
+        },
+        {
+            "text": "virtues",
+            "value": "71"
+        },
+        {
+            "text": "footnote",
+            "value": "67"
+        },
+        {
+            "text": "qualities",
+            "value": "67"
+        },
+        {
+            "text": "object",
+            "value": "65"
+        },
+        {
+            "text": "self",
+            "value": "65"
+        },
+        {
+            "text": "approbation",
+            "value": "62"
+        },
+        {
+            "text": "love",
+            "value": "62"
+        },
+        {
+            "text": "property",
+            "value": "62"
+        },
+        {
+            "text": "happiness",
+            "value": "58"
+        },
+        {
+            "text": "humanity",
+            "value": "57"
+        },
+        {
+            "text": "person",
+            "value": "57"
+        },
+        {
+            "text": "utility",
+            "value": "56"
+        },
+        {
+            "text": "laws",
+            "value": "55"
+        },
+        {
+            "text": "like",
+            "value": "55"
+        },
+        {
+            "text": "natural",
+            "value": "55"
+        },
+        {
+            "text": "common",
+            "value": "54"
+        },
+        {
+            "text": "order",
+            "value": "54"
+        },
+        {
+            "text": "character",
+            "value": "53"
+        },
+        {
+            "text": "great",
+            "value": "53"
+        },
+        {
+            "text": "merit",
+            "value": "53"
+        },
+        {
+            "text": "social",
+            "value": "53"
+        },
+        {
+            "text": "public",
+            "value": "51"
+        },
+        {
+            "text": "species",
+            "value": "51"
+        },
+        {
+            "text": "mind",
+            "value": "50"
+        },
+        {
+            "text": "different",
+            "value": "49"
+        },
+        {
+            "text": "useful",
+            "value": "48"
+        },
+        {
+            "text": "principles",
+            "value": "47"
+        },
+        {
+            "text": "agreeable",
+            "value": "46"
+        },
+        {
+            "text": "affection",
+            "value": "43"
+        },
+        {
+            "text": "life",
+            "value": "43"
+        },
+        {
+            "text": "principle",
+            "value": "43"
+        },
+        {
+            "text": "conduct",
+            "value": "42"
+        },
+        {
+            "text": "kind",
+            "value": "41"
+        },
+        {
+            "text": "present",
+            "value": "41"
+        },
+        {
+            "text": "case",
+            "value": "40"
+        },
+        {
+            "text": "pleasure",
+            "value": "40"
+        },
+        {
+            "text": "make",
+            "value": "39"
+        },
+        {
+            "text": "rules",
+            "value": "39"
+        },
+        {
+            "text": "benevolence",
+            "value": "38"
+        },
+        {
+            "text": "influence",
+            "value": "37"
+        },
+        {
+            "text": "esteem",
+            "value": "36"
+        },
+        {
+            "text": "objects",
+            "value": "36"
+        },
+        {
+            "text": "praise",
+            "value": "36"
+        },
+        {
+            "text": "tendency",
+            "value": "36"
+        },
+        {
+            "text": "immediately",
+            "value": "35"
+        },
+        {
+            "text": "passions",
+            "value": "35"
+        },
+        {
+            "text": "entirely",
+            "value": "34"
+        },
+        {
+            "text": "purpose",
+            "value": "34"
+        },
+        {
+            "text": "sense",
+            "value": "34"
+        },
+        {
+            "text": "shall",
+            "value": "34"
+        },
+        {
+            "text": "arises",
+            "value": "33"
+        },
+        {
+            "text": "beauty",
+            "value": "33"
+        },
+        {
+            "text": "blame",
+            "value": "33"
+        },
+        {
+            "text": "distinction",
+            "value": "33"
+        },
+        {
+            "text": "interests",
+            "value": "33"
+        },
+        {
+            "text": "morals",
+            "value": "33"
+        },
+        {
+            "text": "private",
+            "value": "33"
+        },
+        {
+            "text": "concerning",
+            "value": "32"
+        },
+        {
+            "text": "degree",
+            "value": "32"
+        },
+        {
+            "text": "foundation",
+            "value": "32"
+        },
+        {
+            "text": "manner",
+            "value": "32"
+        },
+        {
+            "text": "origin",
+            "value": "32"
+        },
+        {
+            "text": "place",
+            "value": "32"
+        },
+        {
+            "text": "rule",
+            "value": "32"
+        },
+        {
+            "text": "friendship",
+            "value": "31"
+        },
+        {
+            "text": "indifferent",
+            "value": "31"
+        },
+        {
+            "text": "observe",
+            "value": "31"
+        },
+        {
+            "text": "relations",
+            "value": "31"
+        },
+        {
+            "text": "account",
+            "value": "30"
+        },
+        {
+            "text": "actions",
+            "value": "30"
+        },
+        {
+            "text": "certain",
+            "value": "30"
+        },
+        {
+            "text": "instance",
+            "value": "30"
+        },
+        {
+            "text": "passion",
+            "value": "30"
+        },
+        {
+            "text": "pernicious",
+            "value": "30"
+        },
+        {
+            "text": "say",
+            "value": "30"
+        },
+        {
+            "text": "says",
+            "value": "30"
+        },
+        {
+            "text": "source",
+            "value": "30"
+        },
+        {
+            "text": "consequences",
+            "value": "29"
+        },
+        {
+            "text": "generous",
+            "value": "29"
+        },
+        {
+            "text": "suppose",
+            "value": "29"
+        },
+        {
+            "text": "arise",
+            "value": "28"
+        },
+        {
+            "text": "circumstances",
+            "value": "28"
+        },
+        {
+            "text": "contrary",
+            "value": "28"
+        },
+        {
+            "text": "instances",
+            "value": "28"
+        }
+    ],
+    "Hume: Dialogues Concerning Natural Religion": [
+        {
+            "text": "human",
+            "value": "134"
+        },
+        {
+            "text": "nature",
+            "value": "120"
+        },
+        {
+            "text": "reason",
+            "value": "97"
+        },
+        {
+            "text": "cleanthes",
+            "value": "96"
+        },
+        {
+            "text": "world",
+            "value": "92"
+        },
+        {
+            "text": "cause",
+            "value": "83"
+        },
+        {
+            "text": "philo",
+            "value": "78"
+        },
+        {
+            "text": "universe",
+            "value": "75"
+        },
+        {
+            "text": "order",
+            "value": "72"
+        },
+        {
+            "text": "great",
+            "value": "69"
+        },
+        {
+            "text": "man",
+            "value": "63"
+        },
+        {
+            "text": "life",
+            "value": "62"
+        },
+        {
+            "text": "religion",
+            "value": "62"
+        },
+        {
+            "text": "experience",
+            "value": "61"
+        },
+        {
+            "text": "mind",
+            "value": "59"
+        },
+        {
+            "text": "natural",
+            "value": "59"
+        },
+        {
+            "text": "deity",
+            "value": "57"
+        },
+        {
+            "text": "principles",
+            "value": "56"
+        },
+        {
+            "text": "matter",
+            "value": "54"
+        },
+        {
+            "text": "men",
+            "value": "50"
+        },
+        {
+            "text": "demea",
+            "value": "49"
+        },
+        {
+            "text": "argument",
+            "value": "48"
+        },
+        {
+            "text": "causes",
+            "value": "48"
+        },
+        {
+            "text": "said",
+            "value": "48"
+        },
+        {
+            "text": "present",
+            "value": "47"
+        },
+        {
+            "text": "shall",
+            "value": "43"
+        },
+        {
+            "text": "animal",
+            "value": "42"
+        },
+        {
+            "text": "principle",
+            "value": "42"
+        },
+        {
+            "text": "regard",
+            "value": "42"
+        },
+        {
+            "text": "reasoning",
+            "value": "41"
+        },
+        {
+            "text": "replied",
+            "value": "40"
+        },
+        {
+            "text": "greater",
+            "value": "39"
+        },
+        {
+            "text": "manner",
+            "value": "38"
+        },
+        {
+            "text": "parts",
+            "value": "38"
+        },
+        {
+            "text": "subject",
+            "value": "38"
+        },
+        {
+            "text": "new",
+            "value": "37"
+        },
+        {
+            "text": "common",
+            "value": "36"
+        },
+        {
+            "text": "concerning",
+            "value": "36"
+        },
+        {
+            "text": "analogy",
+            "value": "35"
+        },
+        {
+            "text": "attributes",
+            "value": "34"
+        },
+        {
+            "text": "infinite",
+            "value": "34"
+        },
+        {
+            "text": "ought",
+            "value": "34"
+        },
+        {
+            "text": "philosophy",
+            "value": "34"
+        },
+        {
+            "text": "similar",
+            "value": "34"
+        },
+        {
+            "text": "thought",
+            "value": "34"
+        },
+        {
+            "text": "far",
+            "value": "33"
+        },
+        {
+            "text": "divine",
+            "value": "32"
+        },
+        {
+            "text": "like",
+            "value": "32"
+        },
+        {
+            "text": "make",
+            "value": "32"
+        },
+        {
+            "text": "particular",
+            "value": "32"
+        },
+        {
+            "text": "species",
+            "value": "32"
+        },
+        {
+            "text": "existence",
+            "value": "31"
+        },
+        {
+            "text": "little",
+            "value": "31"
+        },
+        {
+            "text": "say",
+            "value": "31"
+        },
+        {
+            "text": "know",
+            "value": "30"
+        },
+        {
+            "text": "hypothesis",
+            "value": "29"
+        },
+        {
+            "text": "certain",
+            "value": "28"
+        },
+        {
+            "text": "design",
+            "value": "28"
+        },
+        {
+            "text": "arguments",
+            "value": "27"
+        },
+        {
+            "text": "force",
+            "value": "27"
+        },
+        {
+            "text": "general",
+            "value": "27"
+        },
+        {
+            "text": "possible",
+            "value": "27"
+        },
+        {
+            "text": "prove",
+            "value": "27"
+        },
+        {
+            "text": "suppose",
+            "value": "27"
+        },
+        {
+            "text": "does",
+            "value": "26"
+        },
+        {
+            "text": "entirely",
+            "value": "26"
+        },
+        {
+            "text": "form",
+            "value": "26"
+        },
+        {
+            "text": "ideas",
+            "value": "26"
+        },
+        {
+            "text": "perfect",
+            "value": "26"
+        },
+        {
+            "text": "body",
+            "value": "25"
+        },
+        {
+            "text": "religious",
+            "value": "25"
+        },
+        {
+            "text": "sense",
+            "value": "25"
+        },
+        {
+            "text": "thing",
+            "value": "25"
+        },
+        {
+            "text": "animals",
+            "value": "24"
+        },
+        {
+            "text": "contrivance",
+            "value": "24"
+        },
+        {
+            "text": "good",
+            "value": "24"
+        },
+        {
+            "text": "misery",
+            "value": "24"
+        },
+        {
+            "text": "true",
+            "value": "24"
+        },
+        {
+            "text": "allow",
+            "value": "23"
+        },
+        {
+            "text": "kind",
+            "value": "23"
+        },
+        {
+            "text": "mankind",
+            "value": "23"
+        },
+        {
+            "text": "objects",
+            "value": "23"
+        },
+        {
+            "text": "time",
+            "value": "23"
+        },
+        {
+            "text": "unknown",
+            "value": "23"
+        },
+        {
+            "text": "according",
+            "value": "22"
+        },
+        {
+            "text": "case",
+            "value": "22"
+        },
+        {
+            "text": "effects",
+            "value": "22"
+        },
+        {
+            "text": "inference",
+            "value": "22"
+        },
+        {
+            "text": "philosophical",
+            "value": "22"
+        },
+        {
+            "text": "scepticism",
+            "value": "22"
+        },
+        {
+            "text": "things",
+            "value": "22"
+        },
+        {
+            "text": "think",
+            "value": "22"
+        },
+        {
+            "text": "continued",
+            "value": "21"
+        },
+        {
+            "text": "different",
+            "value": "21"
+        },
+        {
+            "text": "generation",
+            "value": "21"
+        },
+        {
+            "text": "necessity",
+            "value": "21"
+        },
+        {
+            "text": "theory",
+            "value": "21"
+        },
+        {
+            "text": "vulgar",
+            "value": "21"
+        },
+        {
+            "text": "creatures",
+            "value": "20"
+        },
+        {
+            "text": "impossible",
+            "value": "20"
+        }
+    ],
+    "Hume: Treatise of Human Nature": [
+        {
+            "text": "idea",
+            "value": "822"
+        },
+        {
+            "text": "object",
+            "value": "693"
+        },
+        {
+            "text": "objects",
+            "value": "664"
+        },
+        {
+            "text": "ideas",
+            "value": "633"
+        },
+        {
+            "text": "mind",
+            "value": "599"
+        },
+        {
+            "text": "relation",
+            "value": "464"
+        },
+        {
+            "text": "present",
+            "value": "449"
+        },
+        {
+            "text": "passions",
+            "value": "432"
+        },
+        {
+            "text": "reason",
+            "value": "431"
+        },
+        {
+            "text": "nature",
+            "value": "414"
+        },
+        {
+            "text": "cause",
+            "value": "392"
+        },
+        {
+            "text": "different",
+            "value": "380"
+        },
+        {
+            "text": "imagination",
+            "value": "379"
+        },
+        {
+            "text": "causes",
+            "value": "378"
+        },
+        {
+            "text": "certain",
+            "value": "370"
+        },
+        {
+            "text": "passion",
+            "value": "369"
+        },
+        {
+            "text": "particular",
+            "value": "341"
+        },
+        {
+            "text": "natural",
+            "value": "339"
+        },
+        {
+            "text": "person",
+            "value": "335"
+        },
+        {
+            "text": "manner",
+            "value": "331"
+        },
+        {
+            "text": "effect",
+            "value": "328"
+        },
+        {
+            "text": "impressions",
+            "value": "312"
+        },
+        {
+            "text": "impression",
+            "value": "311"
+        },
+        {
+            "text": "betwixt",
+            "value": "302"
+        },
+        {
+            "text": "pleasure",
+            "value": "302"
+        },
+        {
+            "text": "time",
+            "value": "297"
+        },
+        {
+            "text": "men",
+            "value": "296"
+        },
+        {
+            "text": "existence",
+            "value": "293"
+        },
+        {
+            "text": "concerning",
+            "value": "287"
+        },
+        {
+            "text": "make",
+            "value": "277"
+        },
+        {
+            "text": "shall",
+            "value": "277"
+        },
+        {
+            "text": "human",
+            "value": "266"
+        },
+        {
+            "text": "case",
+            "value": "262"
+        },
+        {
+            "text": "general",
+            "value": "260"
+        },
+        {
+            "text": "love",
+            "value": "260"
+        },
+        {
+            "text": "qualities",
+            "value": "257"
+        },
+        {
+            "text": "principles",
+            "value": "256"
+        },
+        {
+            "text": "influence",
+            "value": "255"
+        },
+        {
+            "text": "principle",
+            "value": "250"
+        },
+        {
+            "text": "force",
+            "value": "249"
+        },
+        {
+            "text": "evident",
+            "value": "248"
+        },
+        {
+            "text": "new",
+            "value": "248"
+        },
+        {
+            "text": "experience",
+            "value": "247"
+        },
+        {
+            "text": "pride",
+            "value": "247"
+        },
+        {
+            "text": "produce",
+            "value": "247"
+        },
+        {
+            "text": "consider",
+            "value": "242"
+        },
+        {
+            "text": "contrary",
+            "value": "242"
+        },
+        {
+            "text": "derived",
+            "value": "234"
+        },
+        {
+            "text": "form",
+            "value": "234"
+        },
+        {
+            "text": "relations",
+            "value": "233"
+        },
+        {
+            "text": "reasoning",
+            "value": "231"
+        },
+        {
+            "text": "order",
+            "value": "228"
+        },
+        {
+            "text": "impossible",
+            "value": "227"
+        },
+        {
+            "text": "perceptions",
+            "value": "226"
+        },
+        {
+            "text": "kind",
+            "value": "221"
+        },
+        {
+            "text": "sect",
+            "value": "221"
+        },
+        {
+            "text": "observe",
+            "value": "220"
+        },
+        {
+            "text": "actions",
+            "value": "217"
+        },
+        {
+            "text": "common",
+            "value": "216"
+        },
+        {
+            "text": "thing",
+            "value": "215"
+        },
+        {
+            "text": "man",
+            "value": "205"
+        },
+        {
+            "text": "great",
+            "value": "201"
+        },
+        {
+            "text": "effects",
+            "value": "193"
+        },
+        {
+            "text": "parts",
+            "value": "192"
+        },
+        {
+            "text": "action",
+            "value": "189"
+        },
+        {
+            "text": "entirely",
+            "value": "186"
+        },
+        {
+            "text": "naturally",
+            "value": "186"
+        },
+        {
+            "text": "subject",
+            "value": "186"
+        },
+        {
+            "text": "good",
+            "value": "185"
+        },
+        {
+            "text": "regard",
+            "value": "185"
+        },
+        {
+            "text": "place",
+            "value": "184"
+        },
+        {
+            "text": "power",
+            "value": "180"
+        },
+        {
+            "text": "produces",
+            "value": "180"
+        },
+        {
+            "text": "quality",
+            "value": "180"
+        },
+        {
+            "text": "thought",
+            "value": "178"
+        },
+        {
+            "text": "senses",
+            "value": "177"
+        },
+        {
+            "text": "society",
+            "value": "177"
+        },
+        {
+            "text": "property",
+            "value": "175"
+        },
+        {
+            "text": "arises",
+            "value": "174"
+        },
+        {
+            "text": "justice",
+            "value": "168"
+        },
+        {
+            "text": "connexion",
+            "value": "167"
+        },
+        {
+            "text": "degree",
+            "value": "167"
+        },
+        {
+            "text": "hatred",
+            "value": "167"
+        },
+        {
+            "text": "like",
+            "value": "164"
+        },
+        {
+            "text": "suppose",
+            "value": "164"
+        },
+        {
+            "text": "gives",
+            "value": "163"
+        },
+        {
+            "text": "according",
+            "value": "162"
+        },
+        {
+            "text": "humility",
+            "value": "162"
+        },
+        {
+            "text": "virtue",
+            "value": "162"
+        },
+        {
+            "text": "view",
+            "value": "160"
+        },
+        {
+            "text": "makes",
+            "value": "159"
+        },
+        {
+            "text": "means",
+            "value": "159"
+        },
+        {
+            "text": "sentiments",
+            "value": "159"
+        },
+        {
+            "text": "distinct",
+            "value": "154"
+        },
+        {
+            "text": "belief",
+            "value": "153"
+        },
+        {
+            "text": "sympathy",
+            "value": "153"
+        },
+        {
+            "text": "resemblance",
+            "value": "151"
+        },
+        {
+            "text": "related",
+            "value": "148"
+        },
+        {
+            "text": "matter",
+            "value": "147"
+        },
+        {
+            "text": "transition",
+            "value": "146"
+        }
+    ],
+    "Kant: All": [
+        {
+            "text": "reason",
+            "value": "2694"
+        },
+        {
+            "text": "nature",
+            "value": "1819"
+        },
+        {
+            "text": "object",
+            "value": "1480"
+        },
+        {
+            "text": "pure",
+            "value": "1420"
+        },
+        {
+            "text": "experience",
+            "value": "1413"
+        },
+        {
+            "text": "understanding",
+            "value": "1282"
+        },
+        {
+            "text": "possible",
+            "value": "1198"
+        },
+        {
+            "text": "principle",
+            "value": "1096"
+        },
+        {
+            "text": "conception",
+            "value": "1062"
+        },
+        {
+            "text": "time",
+            "value": "1050"
+        },
+        {
+            "text": "judgement",
+            "value": "1048"
+        },
+        {
+            "text": "law",
+            "value": "1022"
+        },
+        {
+            "text": "merely",
+            "value": "971"
+        },
+        {
+            "text": "empirical",
+            "value": "917"
+        },
+        {
+            "text": "things",
+            "value": "902"
+        },
+        {
+            "text": "priori",
+            "value": "883"
+        },
+        {
+            "text": "intuition",
+            "value": "882"
+        },
+        {
+            "text": "world",
+            "value": "876"
+        },
+        {
+            "text": "practical",
+            "value": "871"
+        },
+        {
+            "text": "objects",
+            "value": "855"
+        },
+        {
+            "text": "given",
+            "value": "852"
+        },
+        {
+            "text": "existence",
+            "value": "820"
+        },
+        {
+            "text": "means",
+            "value": "813"
+        },
+        {
+            "text": "principles",
+            "value": "809"
+        },
+        {
+            "text": "concept",
+            "value": "801"
+        },
+        {
+            "text": "cognition",
+            "value": "786"
+        },
+        {
+            "text": "mere",
+            "value": "762"
+        },
+        {
+            "text": "according",
+            "value": "755"
+        },
+        {
+            "text": "conceptions",
+            "value": "739"
+        },
+        {
+            "text": "moral",
+            "value": "735"
+        },
+        {
+            "text": "laws",
+            "value": "725"
+        },
+        {
+            "text": "possibility",
+            "value": "695"
+        },
+        {
+            "text": "phenomena",
+            "value": "673"
+        },
+        {
+            "text": "far",
+            "value": "668"
+        },
+        {
+            "text": "necessary",
+            "value": "662"
+        },
+        {
+            "text": "does",
+            "value": "658"
+        },
+        {
+            "text": "consequently",
+            "value": "654"
+        },
+        {
+            "text": "idea",
+            "value": "646"
+        },
+        {
+            "text": "case",
+            "value": "645"
+        },
+        {
+            "text": "cause",
+            "value": "635"
+        },
+        {
+            "text": "sense",
+            "value": "629"
+        },
+        {
+            "text": "purpose",
+            "value": "628"
+        },
+        {
+            "text": "form",
+            "value": "622"
+        },
+        {
+            "text": "unity",
+            "value": "605"
+        },
+        {
+            "text": "transcendental",
+            "value": "603"
+        },
+        {
+            "text": "faculty",
+            "value": "588"
+        },
+        {
+            "text": "general",
+            "value": "584"
+        },
+        {
+            "text": "relation",
+            "value": "584"
+        },
+        {
+            "text": "condition",
+            "value": "579"
+        },
+        {
+            "text": "thing",
+            "value": "579"
+        },
+        {
+            "text": "subject",
+            "value": "574"
+        },
+        {
+            "text": "conditions",
+            "value": "564"
+        },
+        {
+            "text": "natural",
+            "value": "552"
+        },
+        {
+            "text": "space",
+            "value": "526"
+        },
+        {
+            "text": "thought",
+            "value": "519"
+        },
+        {
+            "text": "use",
+            "value": "519"
+        },
+        {
+            "text": "representation",
+            "value": "503"
+        },
+        {
+            "text": "objective",
+            "value": "490"
+        },
+        {
+            "text": "knowledge",
+            "value": "487"
+        },
+        {
+            "text": "order",
+            "value": "461"
+        },
+        {
+            "text": "respect",
+            "value": "460"
+        },
+        {
+            "text": "certain",
+            "value": "456"
+        },
+        {
+            "text": "rational",
+            "value": "440"
+        },
+        {
+            "text": "causality",
+            "value": "438"
+        },
+        {
+            "text": "concepts",
+            "value": "431"
+        },
+        {
+            "text": "say",
+            "value": "431"
+        },
+        {
+            "text": "freedom",
+            "value": "421"
+        },
+        {
+            "text": "ground",
+            "value": "416"
+        },
+        {
+            "text": "man",
+            "value": "407"
+        },
+        {
+            "text": "universal",
+            "value": "405"
+        },
+        {
+            "text": "ideas",
+            "value": "394"
+        },
+        {
+            "text": "called",
+            "value": "390"
+        },
+        {
+            "text": "regard",
+            "value": "388"
+        },
+        {
+            "text": "good",
+            "value": "387"
+        },
+        {
+            "text": "necessity",
+            "value": "387"
+        },
+        {
+            "text": "make",
+            "value": "380"
+        },
+        {
+            "text": "taste",
+            "value": "370"
+        },
+        {
+            "text": "reality",
+            "value": "369"
+        },
+        {
+            "text": "different",
+            "value": "368"
+        },
+        {
+            "text": "quite",
+            "value": "365"
+        },
+        {
+            "text": "series",
+            "value": "359"
+        },
+        {
+            "text": "science",
+            "value": "357"
+        },
+        {
+            "text": "question",
+            "value": "354"
+        },
+        {
+            "text": "subjective",
+            "value": "351"
+        },
+        {
+            "text": "place",
+            "value": "337"
+        },
+        {
+            "text": "proposition",
+            "value": "337"
+        },
+        {
+            "text": "determined",
+            "value": "336"
+        },
+        {
+            "text": "way",
+            "value": "336"
+        },
+        {
+            "text": "mind",
+            "value": "330"
+        },
+        {
+            "text": "determination",
+            "value": "326"
+        },
+        {
+            "text": "synthetical",
+            "value": "321"
+        },
+        {
+            "text": "philosophy",
+            "value": "314"
+        },
+        {
+            "text": "internal",
+            "value": "313"
+        },
+        {
+            "text": "kind",
+            "value": "308"
+        },
+        {
+            "text": "supreme",
+            "value": "307"
+        },
+        {
+            "text": "synthesis",
+            "value": "304"
+        },
+        {
+            "text": "beautiful",
+            "value": "303"
+        },
+        {
+            "text": "human",
+            "value": "300"
+        },
+        {
+            "text": "action",
+            "value": "296"
+        },
+        {
+            "text": "feeling",
+            "value": "296"
+        }
+    ],
+    "Kant: Critique of Judgment": [
+        {
+            "text": "nature",
+            "value": "909"
+        },
+        {
+            "text": "judgement",
+            "value": "773"
+        },
+        {
+            "text": "concept",
+            "value": "561"
+        },
+        {
+            "text": "object",
+            "value": "445"
+        },
+        {
+            "text": "reason",
+            "value": "414"
+        },
+        {
+            "text": "purpose",
+            "value": "408"
+        },
+        {
+            "text": "taste",
+            "value": "356"
+        },
+        {
+            "text": "principle",
+            "value": "345"
+        },
+        {
+            "text": "according",
+            "value": "323"
+        },
+        {
+            "text": "natural",
+            "value": "317"
+        },
+        {
+            "text": "understanding",
+            "value": "304"
+        },
+        {
+            "text": "beautiful",
+            "value": "299"
+        },
+        {
+            "text": "merely",
+            "value": "285"
+        },
+        {
+            "text": "faculty",
+            "value": "265"
+        },
+        {
+            "text": "ground",
+            "value": "250"
+        },
+        {
+            "text": "_i",
+            "value": "249"
+        },
+        {
+            "text": "purposiveness",
+            "value": "248"
+        },
+        {
+            "text": "things",
+            "value": "238"
+        },
+        {
+            "text": "concepts",
+            "value": "234"
+        },
+        {
+            "text": "mere",
+            "value": "232"
+        },
+        {
+            "text": "possible",
+            "value": "231"
+        },
+        {
+            "text": "art",
+            "value": "229"
+        },
+        {
+            "text": "representation",
+            "value": "229"
+        },
+        {
+            "text": "means",
+            "value": "227"
+        },
+        {
+            "text": "moral",
+            "value": "223"
+        },
+        {
+            "text": "laws",
+            "value": "220"
+        },
+        {
+            "text": "_a",
+            "value": "218"
+        },
+        {
+            "text": "aesthetical",
+            "value": "210"
+        },
+        {
+            "text": "purposes",
+            "value": "210"
+        },
+        {
+            "text": "possibility",
+            "value": "205"
+        },
+        {
+            "text": "priori_",
+            "value": "205"
+        },
+        {
+            "text": "world",
+            "value": "196"
+        },
+        {
+            "text": "far",
+            "value": "194"
+        },
+        {
+            "text": "form",
+            "value": "185"
+        },
+        {
+            "text": "cause",
+            "value": "180"
+        },
+        {
+            "text": "imagination",
+            "value": "179"
+        },
+        {
+            "text": "does",
+            "value": "178"
+        },
+        {
+            "text": "given",
+            "value": "177"
+        },
+        {
+            "text": "reference",
+            "value": "171"
+        },
+        {
+            "text": "feeling",
+            "value": "169"
+        },
+        {
+            "text": "idea",
+            "value": "169"
+        },
+        {
+            "text": "practical",
+            "value": "167"
+        },
+        {
+            "text": "respect",
+            "value": "167"
+        },
+        {
+            "text": "satisfaction",
+            "value": "166"
+        },
+        {
+            "text": "man",
+            "value": "165"
+        },
+        {
+            "text": "final",
+            "value": "161"
+        },
+        {
+            "text": "pleasure",
+            "value": "161"
+        },
+        {
+            "text": "cognition",
+            "value": "159"
+        },
+        {
+            "text": "subjective",
+            "value": "158"
+        },
+        {
+            "text": "objects",
+            "value": "154"
+        },
+        {
+            "text": "principles",
+            "value": "154"
+        },
+        {
+            "text": "order",
+            "value": "153"
+        },
+        {
+            "text": "universal",
+            "value": "153"
+        },
+        {
+            "text": "kind",
+            "value": "150"
+        },
+        {
+            "text": "cognitive",
+            "value": "149"
+        },
+        {
+            "text": "thing",
+            "value": "149"
+        },
+        {
+            "text": "sense",
+            "value": "148"
+        },
+        {
+            "text": "case",
+            "value": "147"
+        },
+        {
+            "text": "consequently",
+            "value": "144"
+        },
+        {
+            "text": "accordance",
+            "value": "143"
+        },
+        {
+            "text": "objective",
+            "value": "142"
+        },
+        {
+            "text": "law",
+            "value": "141"
+        },
+        {
+            "text": "causality",
+            "value": "139"
+        },
+        {
+            "text": "judgements",
+            "value": "138"
+        },
+        {
+            "text": "pure",
+            "value": "137"
+        },
+        {
+            "text": "empirical",
+            "value": "135"
+        },
+        {
+            "text": "thought",
+            "value": "133"
+        },
+        {
+            "text": "way",
+            "value": "133"
+        },
+        {
+            "text": "quite",
+            "value": "132"
+        },
+        {
+            "text": "judging",
+            "value": "130"
+        },
+        {
+            "text": "called",
+            "value": "129"
+        },
+        {
+            "text": "general",
+            "value": "129"
+        },
+        {
+            "text": "beauty",
+            "value": "128"
+        },
+        {
+            "text": "mind",
+            "value": "127"
+        },
+        {
+            "text": "experience",
+            "value": "124"
+        },
+        {
+            "text": "ideas",
+            "value": "124"
+        },
+        {
+            "text": "purposive",
+            "value": "123"
+        },
+        {
+            "text": "theoretical",
+            "value": "122"
+        },
+        {
+            "text": "certain",
+            "value": "121"
+        },
+        {
+            "text": "sublime",
+            "value": "121"
+        },
+        {
+            "text": "regarded",
+            "value": "118"
+        },
+        {
+            "text": "viz",
+            "value": "118"
+        },
+        {
+            "text": "different",
+            "value": "116"
+        },
+        {
+            "text": "use",
+            "value": "115"
+        },
+        {
+            "text": "faculties",
+            "value": "113"
+        },
+        {
+            "text": "particular",
+            "value": "112"
+        },
+        {
+            "text": "freedom",
+            "value": "111"
+        },
+        {
+            "text": "subject",
+            "value": "110"
+        },
+        {
+            "text": "second",
+            "value": "107"
+        },
+        {
+            "text": "intuition",
+            "value": "105"
+        },
+        {
+            "text": "like",
+            "value": "103"
+        },
+        {
+            "text": "make",
+            "value": "102"
+        },
+        {
+            "text": "regards",
+            "value": "101"
+        },
+        {
+            "text": "time",
+            "value": "100"
+        },
+        {
+            "text": "good",
+            "value": "95"
+        },
+        {
+            "text": "beings",
+            "value": "94"
+        },
+        {
+            "text": "condition",
+            "value": "94"
+        },
+        {
+            "text": "supersensible",
+            "value": "93"
+        },
+        {
+            "text": "great",
+            "value": "92"
+        },
+        {
+            "text": "rational",
+            "value": "92"
+        }
+    ],
+    "Kant: Critique of Pure Reason": [
+        {
+            "text": "reason",
+            "value": "1174"
+        },
+        {
+            "text": "conception",
+            "value": "916"
+        },
+        {
+            "text": "experience",
+            "value": "819"
+        },
+        {
+            "text": "time",
+            "value": "720"
+        },
+        {
+            "text": "object",
+            "value": "717"
+        },
+        {
+            "text": "conceptions",
+            "value": "699"
+        },
+        {
+            "text": "pure",
+            "value": "697"
+        },
+        {
+            "text": "understanding",
+            "value": "682"
+        },
+        {
+            "text": "intuition",
+            "value": "628"
+        },
+        {
+            "text": "empirical",
+            "value": "600"
+        },
+        {
+            "text": "possible",
+            "value": "593"
+        },
+        {
+            "text": "phenomena",
+            "value": "584"
+        },
+        {
+            "text": "priori",
+            "value": "580"
+        },
+        {
+            "text": "existence",
+            "value": "574"
+        },
+        {
+            "text": "given",
+            "value": "516"
+        },
+        {
+            "text": "cognition",
+            "value": "510"
+        },
+        {
+            "text": "transcendental",
+            "value": "509"
+        },
+        {
+            "text": "unity",
+            "value": "495"
+        },
+        {
+            "text": "objects",
+            "value": "484"
+        },
+        {
+            "text": "nature",
+            "value": "474"
+        },
+        {
+            "text": "merely",
+            "value": "451"
+        },
+        {
+            "text": "things",
+            "value": "425"
+        },
+        {
+            "text": "necessary",
+            "value": "395"
+        },
+        {
+            "text": "relation",
+            "value": "392"
+        },
+        {
+            "text": "conditions",
+            "value": "389"
+        },
+        {
+            "text": "space",
+            "value": "379"
+        },
+        {
+            "text": "means",
+            "value": "369"
+        },
+        {
+            "text": "world",
+            "value": "365"
+        },
+        {
+            "text": "consequently",
+            "value": "353"
+        },
+        {
+            "text": "principles",
+            "value": "352"
+        },
+        {
+            "text": "principle",
+            "value": "337"
+        },
+        {
+            "text": "idea",
+            "value": "332"
+        },
+        {
+            "text": "condition",
+            "value": "331"
+        },
+        {
+            "text": "possibility",
+            "value": "325"
+        },
+        {
+            "text": "series",
+            "value": "325"
+        },
+        {
+            "text": "mere",
+            "value": "324"
+        },
+        {
+            "text": "general",
+            "value": "320"
+        },
+        {
+            "text": "case",
+            "value": "309"
+        },
+        {
+            "text": "cause",
+            "value": "307"
+        },
+        {
+            "text": "thing",
+            "value": "297"
+        },
+        {
+            "text": "does",
+            "value": "292"
+        },
+        {
+            "text": "synthesis",
+            "value": "291"
+        },
+        {
+            "text": "thought",
+            "value": "291"
+        },
+        {
+            "text": "form",
+            "value": "290"
+        },
+        {
+            "text": "subject",
+            "value": "277"
+        },
+        {
+            "text": "according",
+            "value": "275"
+        },
+        {
+            "text": "far",
+            "value": "264"
+        },
+        {
+            "text": "sense",
+            "value": "259"
+        },
+        {
+            "text": "proposition",
+            "value": "239"
+        },
+        {
+            "text": "sensuous",
+            "value": "239"
+        },
+        {
+            "text": "reality",
+            "value": "232"
+        },
+        {
+            "text": "representation",
+            "value": "231"
+        },
+        {
+            "text": "say",
+            "value": "231"
+        },
+        {
+            "text": "certain",
+            "value": "228"
+        },
+        {
+            "text": "laws",
+            "value": "224"
+        },
+        {
+            "text": "synthetical",
+            "value": "223"
+        },
+        {
+            "text": "knowledge",
+            "value": "220"
+        },
+        {
+            "text": "sphere",
+            "value": "213"
+        },
+        {
+            "text": "judgement",
+            "value": "210"
+        },
+        {
+            "text": "regard",
+            "value": "203"
+        },
+        {
+            "text": "faculty",
+            "value": "202"
+        },
+        {
+            "text": "internal",
+            "value": "197"
+        },
+        {
+            "text": "phenomenon",
+            "value": "192"
+        },
+        {
+            "text": "objective",
+            "value": "190"
+        },
+        {
+            "text": "representations",
+            "value": "188"
+        },
+        {
+            "text": "different",
+            "value": "187"
+        },
+        {
+            "text": "question",
+            "value": "185"
+        },
+        {
+            "text": "present",
+            "value": "182"
+        },
+        {
+            "text": "exist",
+            "value": "181"
+        },
+        {
+            "text": "use",
+            "value": "180"
+        },
+        {
+            "text": "ideas",
+            "value": "174"
+        },
+        {
+            "text": "necessity",
+            "value": "174"
+        },
+        {
+            "text": "categories",
+            "value": "170"
+        },
+        {
+            "text": "place",
+            "value": "169"
+        },
+        {
+            "text": "determined",
+            "value": "167"
+        },
+        {
+            "text": "manifold",
+            "value": "167"
+        },
+        {
+            "text": "absolute",
+            "value": "164"
+        },
+        {
+            "text": "complete",
+            "value": "164"
+        },
+        {
+            "text": "absolutely",
+            "value": "162"
+        },
+        {
+            "text": "consciousness",
+            "value": "161"
+        },
+        {
+            "text": "mode",
+            "value": "160"
+        },
+        {
+            "text": "perception",
+            "value": "158"
+        },
+        {
+            "text": "substance",
+            "value": "157"
+        },
+        {
+            "text": "determination",
+            "value": "156"
+        },
+        {
+            "text": "external",
+            "value": "156"
+        },
+        {
+            "text": "real",
+            "value": "154"
+        },
+        {
+            "text": "connection",
+            "value": "153"
+        },
+        {
+            "text": "science",
+            "value": "151"
+        },
+        {
+            "text": "example",
+            "value": "150"
+        },
+        {
+            "text": "shall",
+            "value": "149"
+        },
+        {
+            "text": "order",
+            "value": "147"
+        },
+        {
+            "text": "impossible",
+            "value": "145"
+        },
+        {
+            "text": "quantity",
+            "value": "145"
+        },
+        {
+            "text": "mind",
+            "value": "142"
+        },
+        {
+            "text": "philosophy",
+            "value": "141"
+        },
+        {
+            "text": "contains",
+            "value": "139"
+        },
+        {
+            "text": "law",
+            "value": "139"
+        },
+        {
+            "text": "natural",
+            "value": "139"
+        },
+        {
+            "text": "parts",
+            "value": "138"
+        },
+        {
+            "text": "state",
+            "value": "138"
+        }
+    ],
+    "Kant: Critique of Practical Reason": [
+        {
+            "text": "reason",
+            "value": "604"
+        },
+        {
+            "text": "law",
+            "value": "515"
+        },
+        {
+            "text": "practical",
+            "value": "471"
+        },
+        {
+            "text": "moral",
+            "value": "338"
+        },
+        {
+            "text": "pure",
+            "value": "313"
+        },
+        {
+            "text": "principle",
+            "value": "234"
+        },
+        {
+            "text": "object",
+            "value": "174"
+        },
+        {
+            "text": "world",
+            "value": "142"
+        },
+        {
+            "text": "freedom",
+            "value": "140"
+        },
+        {
+            "text": "principles",
+            "value": "140"
+        },
+        {
+            "text": "nature",
+            "value": "138"
+        },
+        {
+            "text": "possible",
+            "value": "127"
+        },
+        {
+            "text": "determining",
+            "value": "122"
+        },
+        {
+            "text": "respect",
+            "value": "122"
+        },
+        {
+            "text": "existence",
+            "value": "121"
+        },
+        {
+            "text": "good",
+            "value": "121"
+        },
+        {
+            "text": "happiness",
+            "value": "118"
+        },
+        {
+            "text": "causality",
+            "value": "116"
+        },
+        {
+            "text": "rational",
+            "value": "113"
+        },
+        {
+            "text": "man",
+            "value": "110"
+        },
+        {
+            "text": "knowledge",
+            "value": "106"
+        },
+        {
+            "text": "priori",
+            "value": "106"
+        },
+        {
+            "text": "merely",
+            "value": "104"
+        },
+        {
+            "text": "feeling",
+            "value": "100"
+        },
+        {
+            "text": "duty",
+            "value": "99"
+        },
+        {
+            "text": "use",
+            "value": "99"
+        },
+        {
+            "text": "case",
+            "value": "98"
+        },
+        {
+            "text": "summum",
+            "value": "98"
+        },
+        {
+            "text": "time",
+            "value": "98"
+        },
+        {
+            "text": "bonum",
+            "value": "97"
+        },
+        {
+            "text": "action",
+            "value": "94"
+        },
+        {
+            "text": "objects",
+            "value": "94"
+        },
+        {
+            "text": "speculative",
+            "value": "93"
+        },
+        {
+            "text": "condition",
+            "value": "92"
+        },
+        {
+            "text": "laws",
+            "value": "91"
+        },
+        {
+            "text": "far",
+            "value": "88"
+        },
+        {
+            "text": "order",
+            "value": "87"
+        },
+        {
+            "text": "necessary",
+            "value": "86"
+        },
+        {
+            "text": "objective",
+            "value": "86"
+        },
+        {
+            "text": "notion",
+            "value": "85"
+        },
+        {
+            "text": "paragraph",
+            "value": "84"
+        },
+        {
+            "text": "possibility",
+            "value": "84"
+        },
+        {
+            "text": "means",
+            "value": "83"
+        },
+        {
+            "text": "morality",
+            "value": "82"
+        },
+        {
+            "text": "sense",
+            "value": "82"
+        },
+        {
+            "text": "consequently",
+            "value": "81"
+        },
+        {
+            "text": "make",
+            "value": "81"
+        },
+        {
+            "text": "sensible",
+            "value": "81"
+        },
+        {
+            "text": "faculty",
+            "value": "77"
+        },
+        {
+            "text": "subject",
+            "value": "77"
+        },
+        {
+            "text": "determination",
+            "value": "76"
+        },
+        {
+            "text": "self",
+            "value": "76"
+        },
+        {
+            "text": "conception",
+            "value": "75"
+        },
+        {
+            "text": "does",
+            "value": "74"
+        },
+        {
+            "text": "concept",
+            "value": "73"
+        },
+        {
+            "text": "things",
+            "value": "73"
+        },
+        {
+            "text": "actions",
+            "value": "72"
+        },
+        {
+            "text": "desire",
+            "value": "71"
+        },
+        {
+            "text": "pleasure",
+            "value": "69"
+        },
+        {
+            "text": "empirical",
+            "value": "68"
+        },
+        {
+            "text": "supreme",
+            "value": "68"
+        },
+        {
+            "text": "consciousness",
+            "value": "67"
+        },
+        {
+            "text": "given",
+            "value": "67"
+        },
+        {
+            "text": "theoretical",
+            "value": "66"
+        },
+        {
+            "text": "god",
+            "value": "65"
+        },
+        {
+            "text": "form",
+            "value": "64"
+        },
+        {
+            "text": "necessity",
+            "value": "63"
+        },
+        {
+            "text": "understanding",
+            "value": "61"
+        },
+        {
+            "text": "cause",
+            "value": "60"
+        },
+        {
+            "text": "beings",
+            "value": "59"
+        },
+        {
+            "text": "conditions",
+            "value": "59"
+        },
+        {
+            "text": "experience",
+            "value": "59"
+        },
+        {
+            "text": "maxim",
+            "value": "59"
+        },
+        {
+            "text": "reality",
+            "value": "59"
+        },
+        {
+            "text": "universal",
+            "value": "59"
+        },
+        {
+            "text": "physical",
+            "value": "58"
+        },
+        {
+            "text": "quite",
+            "value": "58"
+        },
+        {
+            "text": "called",
+            "value": "57"
+        },
+        {
+            "text": "effect",
+            "value": "57"
+        },
+        {
+            "text": "according",
+            "value": "56"
+        },
+        {
+            "text": "determined",
+            "value": "56"
+        },
+        {
+            "text": "maxims",
+            "value": "56"
+        },
+        {
+            "text": "virtue",
+            "value": "56"
+        },
+        {
+            "text": "fact",
+            "value": "55"
+        },
+        {
+            "text": "book_1",
+            "value": "54"
+        },
+        {
+            "text": "mere",
+            "value": "53"
+        },
+        {
+            "text": "supersensible",
+            "value": "53"
+        },
+        {
+            "text": "thing",
+            "value": "53"
+        },
+        {
+            "text": "intuition",
+            "value": "51"
+        },
+        {
+            "text": "subjective",
+            "value": "51"
+        },
+        {
+            "text": "view",
+            "value": "51"
+        },
+        {
+            "text": "regard",
+            "value": "50"
+        },
+        {
+            "text": "idea",
+            "value": "49"
+        },
+        {
+            "text": "love",
+            "value": "49"
+        },
+        {
+            "text": "power",
+            "value": "48"
+        },
+        {
+            "text": "determine",
+            "value": "47"
+        },
+        {
+            "text": "ideas",
+            "value": "47"
+        },
+        {
+            "text": "judgement",
+            "value": "47"
+        },
+        {
+            "text": "life",
+            "value": "46"
+        },
+        {
+            "text": "mind",
+            "value": "46"
+        }
+    ],
+    "Kant: Grounding for a Metaphysics of Morals": [
+        {
+            "text": "reason",
+            "value": "210"
+        },
+        {
+            "text": "law",
+            "value": "173"
+        },
+        {
+            "text": "principle",
+            "value": "135"
+        },
+        {
+            "text": "rational",
+            "value": "133"
+        },
+        {
+            "text": "practical",
+            "value": "118"
+        },
+        {
+            "text": "nature",
+            "value": "115"
+        },
+        {
+            "text": "laws",
+            "value": "114"
+        },
+        {
+            "text": "good",
+            "value": "90"
+        },
+        {
+            "text": "moral",
+            "value": "90"
+        },
+        {
+            "text": "action",
+            "value": "89"
+        },
+        {
+            "text": "duty",
+            "value": "84"
+        },
+        {
+            "text": "universal",
+            "value": "83"
+        },
+        {
+            "text": "end",
+            "value": "79"
+        },
+        {
+            "text": "possible",
+            "value": "75"
+        },
+        {
+            "text": "imperative",
+            "value": "71"
+        },
+        {
+            "text": "world",
+            "value": "69"
+        },
+        {
+            "text": "actions",
+            "value": "64"
+        },
+        {
+            "text": "freedom",
+            "value": "64"
+        },
+        {
+            "text": "pure",
+            "value": "64"
+        },
+        {
+            "text": "idea",
+            "value": "62"
+        },
+        {
+            "text": "ends",
+            "value": "61"
+        },
+        {
+            "text": "means",
+            "value": "59"
+        },
+        {
+            "text": "principles",
+            "value": "58"
+        },
+        {
+            "text": "conception",
+            "value": "56"
+        },
+        {
+            "text": "morality",
+            "value": "55"
+        },
+        {
+            "text": "subject",
+            "value": "55"
+        },
+        {
+            "text": "does",
+            "value": "54"
+        },
+        {
+            "text": "man",
+            "value": "53"
+        },
+        {
+            "text": "beings",
+            "value": "51"
+        },
+        {
+            "text": "maxim",
+            "value": "51"
+        },
+        {
+            "text": "merely",
+            "value": "50"
+        },
+        {
+            "text": "case",
+            "value": "49"
+        },
+        {
+            "text": "philosophy",
+            "value": "49"
+        },
+        {
+            "text": "worth",
+            "value": "48"
+        },
+        {
+            "text": "necessary",
+            "value": "47"
+        },
+        {
+            "text": "necessity",
+            "value": "47"
+        },
+        {
+            "text": "respect",
+            "value": "47"
+        },
+        {
+            "text": "happiness",
+            "value": "44"
+        },
+        {
+            "text": "inclination",
+            "value": "43"
+        },
+        {
+            "text": "categorical",
+            "value": "42"
+        },
+        {
+            "text": "condition",
+            "value": "42"
+        },
+        {
+            "text": "maxims",
+            "value": "41"
+        },
+        {
+            "text": "object",
+            "value": "41"
+        },
+        {
+            "text": "experience",
+            "value": "40"
+        },
+        {
+            "text": "make",
+            "value": "40"
+        },
+        {
+            "text": "understanding",
+            "value": "40"
+        },
+        {
+            "text": "far",
+            "value": "39"
+        },
+        {
+            "text": "sense",
+            "value": "39"
+        },
+        {
+            "text": "empirical",
+            "value": "38"
+        },
+        {
+            "text": "called",
+            "value": "37"
+        },
+        {
+            "text": "priori",
+            "value": "37"
+        },
+        {
+            "text": "act",
+            "value": "35"
+        },
+        {
+            "text": "general",
+            "value": "35"
+        },
+        {
+            "text": "human",
+            "value": "35"
+        },
+        {
+            "text": "order",
+            "value": "34"
+        },
+        {
+            "text": "kingdom",
+            "value": "33"
+        },
+        {
+            "text": "objective",
+            "value": "33"
+        },
+        {
+            "text": "purpose",
+            "value": "33"
+        },
+        {
+            "text": "view",
+            "value": "33"
+        },
+        {
+            "text": "knowledge",
+            "value": "32"
+        },
+        {
+            "text": "mere",
+            "value": "32"
+        },
+        {
+            "text": "say",
+            "value": "31"
+        },
+        {
+            "text": "time",
+            "value": "31"
+        },
+        {
+            "text": "common",
+            "value": "30"
+        },
+        {
+            "text": "just",
+            "value": "30"
+        },
+        {
+            "text": "ought",
+            "value": "30"
+        },
+        {
+            "text": "morals",
+            "value": "29"
+        },
+        {
+            "text": "consequently",
+            "value": "28"
+        },
+        {
+            "text": "inclinations",
+            "value": "28"
+        },
+        {
+            "text": "men",
+            "value": "28"
+        },
+        {
+            "text": "metaphysic",
+            "value": "28"
+        },
+        {
+            "text": "according",
+            "value": "27"
+        },
+        {
+            "text": "supreme",
+            "value": "27"
+        },
+        {
+            "text": "autonomy",
+            "value": "26"
+        },
+        {
+            "text": "certain",
+            "value": "26"
+        },
+        {
+            "text": "effect",
+            "value": "26"
+        },
+        {
+            "text": "regard",
+            "value": "26"
+        },
+        {
+            "text": "necessarily",
+            "value": "25"
+        },
+        {
+            "text": "subjective",
+            "value": "25"
+        },
+        {
+            "text": "free",
+            "value": "24"
+        },
+        {
+            "text": "self",
+            "value": "24"
+        },
+        {
+            "text": "causality",
+            "value": "23"
+        },
+        {
+            "text": "imperatives",
+            "value": "23"
+        },
+        {
+            "text": "question",
+            "value": "23"
+        },
+        {
+            "text": "thing",
+            "value": "23"
+        },
+        {
+            "text": "simply",
+            "value": "22"
+        },
+        {
+            "text": "use",
+            "value": "22"
+        },
+        {
+            "text": "value",
+            "value": "22"
+        },
+        {
+            "text": "way",
+            "value": "22"
+        },
+        {
+            "text": "conceive",
+            "value": "21"
+        },
+        {
+            "text": "absolutely",
+            "value": "20"
+        },
+        {
+            "text": "objects",
+            "value": "20"
+        },
+        {
+            "text": "volition",
+            "value": "20"
+        },
+        {
+            "text": "belonging",
+            "value": "19"
+        },
+        {
+            "text": "conceived",
+            "value": "19"
+        },
+        {
+            "text": "contrary",
+            "value": "19"
+        },
+        {
+            "text": "determine",
+            "value": "19"
+        },
+        {
+            "text": "form",
+            "value": "19"
+        },
+        {
+            "text": "kind",
+            "value": "19"
+        },
+        {
+            "text": "love",
+            "value": "19"
+        }
+    ],
+    "Kant: Prolegomena for any Future Metaphyics": [
+        {
+            "text": "experience",
+            "value": "371"
+        },
+        {
+            "text": "reason",
+            "value": "292"
+        },
+        {
+            "text": "pure",
+            "value": "209"
+        },
+        {
+            "text": "understanding",
+            "value": "195"
+        },
+        {
+            "text": "nature",
+            "value": "183"
+        },
+        {
+            "text": "possible",
+            "value": "172"
+        },
+        {
+            "text": "concept",
+            "value": "157"
+        },
+        {
+            "text": "priori",
+            "value": "156"
+        },
+        {
+            "text": "concepts",
+            "value": "151"
+        },
+        {
+            "text": "things",
+            "value": "148"
+        },
+        {
+            "text": "metaphysics",
+            "value": "147"
+        },
+        {
+            "text": "judgments",
+            "value": "126"
+        },
+        {
+            "text": "mere",
+            "value": "121"
+        },
+        {
+            "text": "science",
+            "value": "112"
+        },
+        {
+            "text": "space",
+            "value": "109"
+        },
+        {
+            "text": "principles",
+            "value": "105"
+        },
+        {
+            "text": "world",
+            "value": "104"
+        },
+        {
+            "text": "object",
+            "value": "103"
+        },
+        {
+            "text": "objects",
+            "value": "103"
+        },
+        {
+            "text": "use",
+            "value": "103"
+        },
+        {
+            "text": "sense",
+            "value": "101"
+        },
+        {
+            "text": "time",
+            "value": "101"
+        },
+        {
+            "text": "cognition",
+            "value": "99"
+        },
+        {
+            "text": "intuition",
+            "value": "93"
+        },
+        {
+            "text": "judgment",
+            "value": "87"
+        },
+        {
+            "text": "far",
+            "value": "83"
+        },
+        {
+            "text": "merely",
+            "value": "81"
+        },
+        {
+            "text": "given",
+            "value": "79"
+        },
+        {
+            "text": "empirical",
+            "value": "76"
+        },
+        {
+            "text": "laws",
+            "value": "76"
+        },
+        {
+            "text": "means",
+            "value": "75"
+        },
+        {
+            "text": "according",
+            "value": "74"
+        },
+        {
+            "text": "appearances",
+            "value": "74"
+        },
+        {
+            "text": "synthetical",
+            "value": "73"
+        },
+        {
+            "text": "cause",
+            "value": "71"
+        },
+        {
+            "text": "possibility",
+            "value": "71"
+        },
+        {
+            "text": "form",
+            "value": "64"
+        },
+        {
+            "text": "general",
+            "value": "64"
+        },
+        {
+            "text": "quite",
+            "value": "62"
+        },
+        {
+            "text": "critique",
+            "value": "61"
+        },
+        {
+            "text": "does",
+            "value": "60"
+        },
+        {
+            "text": "thing",
+            "value": "57"
+        },
+        {
+            "text": "perception",
+            "value": "55"
+        },
+        {
+            "text": "subject",
+            "value": "55"
+        },
+        {
+            "text": "knowledge",
+            "value": "54"
+        },
+        {
+            "text": "law",
+            "value": "54"
+        },
+        {
+            "text": "question",
+            "value": "53"
+        },
+        {
+            "text": "relation",
+            "value": "53"
+        },
+        {
+            "text": "universal",
+            "value": "53"
+        },
+        {
+            "text": "connexion",
+            "value": "52"
+        },
+        {
+            "text": "necessary",
+            "value": "52"
+        },
+        {
+            "text": "existence",
+            "value": "51"
+        },
+        {
+            "text": "certain",
+            "value": "49"
+        },
+        {
+            "text": "way",
+            "value": "49"
+        },
+        {
+            "text": "common",
+            "value": "48"
+        },
+        {
+            "text": "consequently",
+            "value": "48"
+        },
+        {
+            "text": "viz",
+            "value": "48"
+        },
+        {
+            "text": "conditions",
+            "value": "47"
+        },
+        {
+            "text": "natural",
+            "value": "47"
+        },
+        {
+            "text": "propositions",
+            "value": "46"
+        },
+        {
+            "text": "sensibility",
+            "value": "46"
+        },
+        {
+            "text": "principle",
+            "value": "45"
+        },
+        {
+            "text": "mathematics",
+            "value": "44"
+        },
+        {
+            "text": "know",
+            "value": "43"
+        },
+        {
+            "text": "analytical",
+            "value": "42"
+        },
+        {
+            "text": "case",
+            "value": "42"
+        },
+        {
+            "text": "necessity",
+            "value": "42"
+        },
+        {
+            "text": "problem",
+            "value": "42"
+        },
+        {
+            "text": "valid",
+            "value": "42"
+        },
+        {
+            "text": "determine",
+            "value": "41"
+        },
+        {
+            "text": "ideas",
+            "value": "41"
+        },
+        {
+            "text": "representations",
+            "value": "41"
+        },
+        {
+            "text": "order",
+            "value": "40"
+        },
+        {
+            "text": "say",
+            "value": "40"
+        },
+        {
+            "text": "thought",
+            "value": "40"
+        },
+        {
+            "text": "appearance",
+            "value": "39"
+        },
+        {
+            "text": "necessarily",
+            "value": "39"
+        },
+        {
+            "text": "objective",
+            "value": "39"
+        },
+        {
+            "text": "transcendental",
+            "value": "38"
+        },
+        {
+            "text": "determined",
+            "value": "37"
+        },
+        {
+            "text": "representation",
+            "value": "37"
+        },
+        {
+            "text": "senses",
+            "value": "36"
+        },
+        {
+            "text": "sensuous",
+            "value": "36"
+        },
+        {
+            "text": "idea",
+            "value": "34"
+        },
+        {
+            "text": "called",
+            "value": "33"
+        },
+        {
+            "text": "human",
+            "value": "33"
+        },
+        {
+            "text": "considered",
+            "value": "32"
+        },
+        {
+            "text": "make",
+            "value": "32"
+        },
+        {
+            "text": "proposition",
+            "value": "32"
+        },
+        {
+            "text": "truth",
+            "value": "32"
+        },
+        {
+            "text": "complete",
+            "value": "31"
+        },
+        {
+            "text": "illusion",
+            "value": "31"
+        },
+        {
+            "text": "place",
+            "value": "31"
+        },
+        {
+            "text": "point",
+            "value": "31"
+        },
+        {
+            "text": "regard",
+            "value": "31"
+        },
+        {
+            "text": "think",
+            "value": "31"
+        },
+        {
+            "text": "contains",
+            "value": "30"
+        },
+        {
+            "text": "hume",
+            "value": "30"
+        },
+        {
+            "text": "idealism",
+            "value": "30"
+        },
+        {
+            "text": "internal",
+            "value": "30"
+        }
+    ]
+}

@@ -22,30 +22,33 @@
                 class="collapse 
                        navbar-collapse 
                        justify-content-end">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                            <div>
-                                <select id="searchMenu" class="select_menu">
-                                </select>
-                            </div>
 
-                </ul>
                 </div>
             </nav>
         </header>
         <main>
             <div class="row">
                 <div class="col-md-12">   
-                    <article>
-                        <div id="intro" style="color:lightgray">
-                            <p>This website provides a visual comparison of the 100 most common 
-                                terms used among a set of famous philosophers.</p>
-                        </div>
-                        <!-- Create a div where the graph will take place -->
-                        <div id="dataViz">
-                            <svg id="demo1" width="700" height="400"></svg>
-                        </div>
-                    </article>
+                    <div id="intro" style="color:lightgray">
+                        <p>This website provides a visual comparison of the 100 most common 
+                            terms used among a set of famous Philosophical texts.</p>
+                    </div>
+                </div>
+            </div>
+            <div class = "row">
+                <div class="col-md-6">
+                    <div>
+                        <select id="selectMenu1" class="select_menu">
+                        </select>
+                    </div>
+                    <svg id="cloud1" width="525" height="400"></svg>
+                </div>
+                <div class="col-md-6">
+                    <div>
+                        <select id="selectMenu2" class="select_menu">
+                        </select>
+                    </div>
+                    <svg id="cloud2" width="525" height="400"></svg>
                 </div>
             </div>
         </main>
