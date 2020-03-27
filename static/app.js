@@ -70,7 +70,7 @@ d3.json("static/wordcloud.json").then(data => {
 
             let scaleType = d3.scaleLinear()
                 .domain([minVal,maxVal])
-                .range([10,50])
+                .range([10,55])
 
             wordCloudData.length = 0;
             wordValues.forEach(function(word) {
