@@ -91,6 +91,7 @@ d3.json("static/wordcloud.json").then(data => {
         let wordCloudlayout1 = d3.layout.cloud()
             .size([500, 400])
             .words(wordCloudData)
+            .fontSize((d)=>d.value)
             .font("Gill Sans MT")
             .padding(5)
             .on("end", draw1);
