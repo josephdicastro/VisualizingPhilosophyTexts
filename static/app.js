@@ -63,8 +63,6 @@ d3.json("static/wordcloud.json").then(data => {
     makeCloud2();
 
     function showText(selectedText, menuNum) {
-
-
         if (selectedText !== '...Select Text...') {
             wordValues = data[selectedText]
             minVal = d3.min(wordValues, v=>+v.value)
@@ -80,15 +78,12 @@ d3.json("static/wordcloud.json").then(data => {
                 word.value = scaleType(word.value)
                 wordCloudData.push(word) 
             })
-            
-            console.log(menuNum)
+
             if (menuNum === 'menu1') {
                 makeCloud1();
             } else {
                 makeCloud2();
             }
-            
-        
         }
     }
 
@@ -96,7 +91,6 @@ d3.json("static/wordcloud.json").then(data => {
         let wordCloudlayout1 = d3.layout.cloud()
             .size([500, 400])
             .words(wordCloudData)
-            .fontSize((d)=>d.value)
             .font("Gill Sans MT")
             .padding(5)
             .on("end", draw1);
