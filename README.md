@@ -1,6 +1,9 @@
 # Visualizing Philosophy Texts
 
-I created Word Clouds for a set of philosophical texts to compare and contrast the 100 most common words used within each of the those documents
+I created Word Clouds for a set of philosophical texts to compare and contrast the 100 most commonly words used within each of the texts.
+
+See it here:
+[Visualizing Philosophy Texts](https://josephdicastro.github.io/VisualizingPhilosophyTexts/)
 
 ## Data Collection
 
